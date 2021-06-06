@@ -6,8 +6,8 @@
   z-index: 1;
   top: 0;
   right: 0;
-  padding-top: 40px;
   background-color: rgba(17, 17, 17, 0.98);
+  padding-top: 60px;
   overflow-x: hidden;
   transition: 0.5s;
   text-align: left;
@@ -68,12 +68,11 @@
 <button style="font-size:31px;cursor:pointer" onclick="openNav()" class="icon-wrapper">{{ partial "icons/ui/menu-icon.html"}}</button>
 
 <script>
-/* Set the width of the side navigation to 250px */
 function openNav() {
-  document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("mySidenav").style.width = "100%";
 }
 
-/* Set the width of the side navigation to 0 */
+/* Close/hide the sidenav */
 function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
 }
