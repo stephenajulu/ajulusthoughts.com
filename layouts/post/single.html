@@ -8,8 +8,16 @@
 
     <article  id="articleContent" class="post-content" style="position:relative;">
         {{ .Content }}
+
+        {{ partial "others/categories.html" . }}
+
+        <br>
+        
+        <div align="center"><h5 style="color:#6166DC;">Share On: </h5>{{partial "others/share.html" .}}</div>
+
     </article>
 
+{{ partial "comments/commento.html" . }}
 
     {{ partial "article/next.html" . }}
 </section>

@@ -1,0 +1,74 @@
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 65%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '↓';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "↑";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  width: 65%;
+  color: #CD2653;
+  font-size: 0.9em;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+  .content a {
+  color: #CD2653;
+  font-size: 0.9em;
+}
+  .content ul li{
+ font-size: 0.9em;
+ text-align: left;
+}
+</style>
+
+<div class="section narrow" align="center">
+<button class="collapsible" title="Click To Show Table of Contents">Table of Contents</button>
+<div class="content">
+  {{ .Page.TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
+</div>
+</div>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+        
