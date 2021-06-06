@@ -1,4 +1,65 @@
-baseURL: "https://example.com"
+baseURL: "https://ajulusthoughts.stephenajulu.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Ajulu's Thoughts"
 pygmentsstyle: 'monokai'
+enableEmoji: true
+paginate: 10
+metaDataFormat: yaml
+enableGitInfo: true
+enableRobotsTXT: true
+
+social:
+  twitter: "https://twitter.com/stephenajulu"
+  github: "https://github.com/stephenajulu/"
+  instagram: "https://instagram.com/stephenajulu"
+  linkedin: "https://www.linkedin.com/in/stephenajulu/"
+  dribbble: "https://dribbble.com/stephenajulu"
+  youtube: "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
+  
+params:
+  description: "Welcome to Stephen Ajulu's Informative Blog, where he talks about tech, cybersecurity, lifestyle, finance and more."
+  images: "images/about.png"
+  hero: "images/about.png"
+  GithubEdit: "https://github.com/stephenajulu/ajulusthoughts2/edit/master/content/"
+  formaction: "https://app.convertkit.com/forms/2023413/subscriptions"
+  twitter: "@stephenajulu"
+  author: "Stephen Ajulu"
+  toc: true
+  adsense:
+    client: "ca-pub-2099668045881016"
+    inArticleSlot: "5485551778"
+    BannerSlot: "8662937936"
+  
+taxonomies:
+  author: authors
+  tag: tags
+  category: categories
+  
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    tableOfContents:
+      endLevel: 4
+      ordered: true
+      startLevel: 2
+      
+related:
+  threshold: 0
+  includeNewer: true
+  toLower: false
+  indices:
+  - name: categories
+    weight: 100
+  - name: tags
+    weight: 200
+  - name: keywords
+    weight: 200
+  - name: date
+    weight: 10
+    
+outputs:
+  home: 
+  - HTML
+  - RSS
+  - JSON
