@@ -52,7 +52,7 @@
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a style="color:white;text-color:white;" class="menutitle"><strong>Menu</strong></a>
+  <a href="{{ .RelPermalink }}" style="color:white;text-color:white;" class="menutitle"><strong>{{If .IsHome }}Home{{ else }}{{ .Title }}{{ end }}</strong></a> &nbsp; <button id="copyButton" class="icon-wrapper" align="center">{{ partial "icons/ui/link.html" . }}<div id="toolTip" class="tool-tip " >copied</div><input id="copyText" style="opacity: 0;" type="text" class="tool-tip " /></button>
   <br>
   <br>
 <br>
@@ -67,15 +67,6 @@
   <h4><a href="/sitemap.xml">Sitemap</a></h4>
   <h4><a href="https://stephenajulu.com">Personal Website</a></h4>
   <h4><a href="https://anchor.fm/stephenajulu">Podcast</a></h4>
-  
-  <button id="copyButton" class="icon-wrapper" align="center">
-    {{ partial "icons/ui/link.html" . }}
-        <div id="toolTip" class="tool-tip " >
-            copied
-        </div>
-        <input id="copyText" style="opacity: 0;" type="text" class="tool-tip " />
-      </button>
-  
 </div>
 <button style="font-size:30px;cursor:pointer" onclick="openNav()" class="icon-wrapper">{{ partial "icons/ui/menu-icon.html"}}</button>
 
