@@ -37,18 +37,13 @@
   margin-left: 50px;
 }
 
-/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
-#main {
-  transition: margin-left .5s;
-  padding: 20px;
-}
-
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
 </style>
+
 
 
 
@@ -61,20 +56,23 @@
 </div>
 
 <!-- Use any element to open the sidenav -->
-<span onclick="openNav()">{{ partial "icons/ui/menu-icon.html" . }}</span>
+<span onclick="openNav()">Menu</span>
 
-  ...
-</div>
+<!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->
+
+
+
+
 
 
 
 <script>
-/* Open the sidenav */
+/* Set the width of the side navigation to 250px */
 function openNav() {
-  document.getElementById("mySidenav").style.width = "100%";
+  document.getElementById("mySidenav").style.width = "250px";
 }
 
-/* Close/hide the sidenav */
+/* Set the width of the side navigation to 0 */
 function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
 }
