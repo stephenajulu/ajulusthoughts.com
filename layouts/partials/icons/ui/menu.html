@@ -36,13 +36,6 @@
   margin-left: 50px;
 }
   
-.sidenav .menutitle {
-  position: absolute;
-  top: 0;
-  margin-right: 50px;
-  font-size: 30px;
-}
-  
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
@@ -52,7 +45,7 @@
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="{{ .RelPermalink }}" style="color:white;text-color:white;" class="menutitle"><strong>{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }}</strong></a> &nbsp; <button id="copyButton" class="icon-wrapper" align="center">{{ partial "icons/ui/link.html" . }}<div id="toolTip" class="tool-tip " >copied</div><input id="copyText" style="opacity: 0;" type="text" class="tool-tip " /></button>
+  <a href="{{ .RelPermalink }}" style="color:white;text-color:white;top: 0;font-size: 30px;text-align:center;" class="menutitle"><strong>{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }}</strong></a> &nbsp; <button id="copyButton" class="icon-wrapper" align="center" style="align:center;text-align:center;">{{ partial "icons/ui/link.html" . }}<div id="toolTip" class="tool-tip " >copied</div><input id="copyText" style="opacity: 0;" type="text" class="tool-tip " /></button>
   <br>
   <br>
 <br>
