@@ -1,0 +1,80 @@
+<style>
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  padding-top: 40px;
+  background-color: rgba(17, 17, 17, 0.98);
+  overflow-x: hidden;
+  transition: 0.5s;
+  text-align: left;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  color: #CD2653;
+  display: block;
+  transition: 0.3s;
+  font-family: 'DM Serif Display', serif;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.sidenav .menutitle {
+  position: absolute;
+  top: 0;
+  margin-right: 50px;
+  font-size: 30px;
+}
+  
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a style="color:white;text-color:white;" class="menutitle"><strong>Menu</strong></a>
+  <br>
+  <br>
+<br>
+  <h4><a href="/about">About</a></h4>
+  <h4><a href="/contact">Contact</a></h4>
+  <h4><a href="/cookie-policy">Cookie Policy</a></h4>
+  <h4><a href="/disclaimer">Disclaimer</a></h4>
+  <h4><a href="/privacy-policy">Privacy Policy</a></h4>
+  <h4><a href="/terms-and-conditions">Terms and Conditions</a></h4>
+  <h4><a href="/code-of-conduct">Code of Conduct</a></h4>
+  <h4><a href="/index.xml">RSS Feed</a></h4>
+  <h4><a href="/sitemap.xml">Sitemap</a></h4>
+  <h4><a href="https://stephenajulu.com">Personal Website</a></h4>
+  <h4><a href="https://anchor.fm/stephenajulu">Podcast</a></h4>
+</div>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()" class="icon-wrapper">{{ partial "icons/ui/menu-icon.html"}}</span>
+
+<script>
+/* Set the width of the side navigation to 250px */
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
