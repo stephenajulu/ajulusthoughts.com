@@ -45,9 +45,9 @@
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <h4 style="color:white;text-color:white;top: 0;font-size: 30px;text-align:center;" class="menutitle"><strong>{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }}</strong></h4>
+  <a href="{{ .RelPermalink }}" style="color:white;text-color:white;top: 0;font-size: 30px;text-align:center;" class="menutitle"><strong>{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }}</strong></a>
   <br>
-   <div align="center"><button id="copyButton" class="icon-wrapper" align="center" style="align:center;text-align:center;">{{ partial "icons/ui/link.html" . }}<div id="toolTip" class="tool-tip " >copied</div><input id="copyText" style="opacity: 0;" type="text" class="tool-tip " /></button></div>
+   <div align="center" style="justify-content:center;"><button id="copyButton" class="icon-wrapper" align="center" style="align:center;text-align:center;">{{ partial "icons/ui/link.html" . }}<div id="toolTip" class="tool-tip" >copied</div><input id="copyText" style="opacity: 0;" type="text" class="tool-tip" /></button></div>
   <br>
 <br>
   <h4><a href="/about">About</a></h4>
