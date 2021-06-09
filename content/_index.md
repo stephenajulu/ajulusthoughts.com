@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Tech & Life Talks With Ajulu.
+  heading: Tech, Life, Finance, Self Development and Other Talks with Ajulu.
   maxWidthPX: "652"
 seo:
   image: "/images/about.png"
