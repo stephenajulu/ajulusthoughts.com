@@ -3,7 +3,7 @@ languageCode: "en-us"
 title: "Ajulu's Thoughts"
 pygmentsstyle: 'monokai'
 enableEmoji: true
-paginate: 13
+paginate: 14
 metaDataFormat: yaml
 enableGitInfo: true
 enableRobotsTXT: true
@@ -17,7 +17,7 @@ social:
   youtube: "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
   
 params:
-  description: "Welcome to Stephen Ajulu's Informative Blog, where he talks about tech, cybersecurity, lifestyle, finance and more."
+  description: "Tech, Life, Finance, Self Development and Other Talks with Ajulu"
   images: "images/about.png"
   hero: "images/about.png"
   GithubEdit: "https://github.com/stephenajulu/ajulusthoughts2/edit/master/content/"
@@ -50,13 +50,15 @@ related:
   toLower: false
   indices:
   - name: categories
-    weight: 100
-  - name: tags
     weight: 200
+  - name: tags
+    weight: 500
   - name: keywords
     weight: 200
   - name: date
     weight: 10
+  - name: title
+    weight: 50
     
 outputs:
   home: 
