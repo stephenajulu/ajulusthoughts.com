@@ -1,4 +1,4 @@
-baseURL: "https://ajulusthoughts.stephenajulu.com"
+baseURL: "https://ajulusthoughts2-1.netlify.app"
 languageCode: "en-us"
 title: "Ajulu's Thoughts"
 pygmentsstyle: 'monokai'
@@ -17,7 +17,7 @@ social:
   youtube: "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
   
 params:
-  description: "Tech, Life, Finance, Self Development and Other Talks with Ajulu"
+  description: "Tech, Life, Design, Finance, Self Development and Other Talks with Ajulu"
   images: "images/about.png"
   hero: "images/about.png"
   GithubEdit: "https://github.com/stephenajulu/ajulusthoughts2/edit/master/content/"
@@ -64,7 +64,7 @@ menu:
   main:
   - identifier: about
     name: About
-    url: /about
+    url: about
     weight: 0
     
 outputs:
