@@ -1,0 +1,24 @@
+<!-- layouts/_default/terms.html -->
+
+{{ define "main" }}
+  {{ partial "articles/hero.html" . }}
+    <h2>{{ .Name }}</h2>
+    <p></p>
+    <p>
+        {{ $biggest := 1 }}
+        {{ $smallest := 1 }}
+        {{ $max := 3 }}
+        {{ $min := 1 }}
+        {{ $size := $min }}
+
+        {{ $data := .Data }}
+        {{ range $key, $value := .Data.Terms.ByCount }}
+            {{ $size := (add (mul (div $value.Count $biggest) (sub $max $min)) $min) }}
+            {{ $size := (cond (eq $biggest $smallest) $min $size) }}
+            <a class = "article-tag li" href="{{ $.Site.LanguagePrefix | absURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}/">
+              <span class="hashtag">#</span>{{ $value.Name }}<sup>{{ $value.Count }}</sup></a>
+
+        {{ end }}
+    </p>
+  {{ partial "footer.html" . }}
+{{ end }}
