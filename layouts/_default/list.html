@@ -1,4 +1,39 @@
+<!-- layouts/_default/list.html -->
+
 {{ define "main" }}
   {{ partial "articles/hero.html" . }}
+
+  {{ if isset .Data "Term" }}
+    <h2><span class="hashtag">#</span>{{ .Data.Term }}</h2>
+    <ul>
+      {{- range .Data.Pages -}}
+      {{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
+      {{- else -}}
+      <li>
+          <div>
+            <h2>
+              <a href="{{ .RelPermalink }}">{{.Title}}{{ if .Draft }}<sup class="draft-label">DRAFT</sup>{{ end }}</a>
+            </h2>
+            <div>
+              {{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "January 2, 2006" .Date }}{{ end }}</span>
+              {{ if .Params.timetoread }} • {{ .Params.timetoread }} min read{{ end }}
+            </div>
+            <span>
+              {{ if isset .Params "excerpt" }}
+                {{ .Params.excerpt }}
+              {{ else if gt (len .RawContent) 120 }}
+                {{ slicestr .RawContent 0 120 }}...
+              {{ else }}
+                {{ .RawContent }}
+              {{ end }}
+            </span>
+          </div>
+      </li>
+      {{- end -}}
+      {{- end -}}
+    </ul>
+  {{ else }}
   {{ partial "articles/articles.html" . }}
+  {{ end }}
+  {{ partial "footer.html" . }}
 {{ end }}
