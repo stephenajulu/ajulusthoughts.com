@@ -59,6 +59,13 @@ related:
     weight: 10
   - name: title
     weight: 50
+
+menu:
+  main:
+  - identifier: about
+    name: About
+    url: /about
+    weight: 0
     
 outputs:
   home: 
