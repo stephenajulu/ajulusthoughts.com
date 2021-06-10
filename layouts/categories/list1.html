@@ -1,0 +1,9 @@
+{{ define "main" }}
+<section class="section narrow">
+    <h1 align="center">{{ .Title | humanize }}</h1>
+    <section>
+        {{ partial "articles/articles.html" . }}
+    </section>
+</section>
+
+{{ end }}

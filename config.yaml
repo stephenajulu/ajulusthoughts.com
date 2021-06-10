@@ -9,21 +9,24 @@ enableGitInfo: true
 enableRobotsTXT: true
 
 social:
-  twitter: "https://twitter.com/stephenajulu"
-  github: "https://github.com/stephenajulu/"
-  instagram: "https://instagram.com/stephenajulu"
-  linkedin: "https://www.linkedin.com/in/stephenajulu/"
-  dribbble: "https://dribbble.com/stephenajulu"
-  youtube: "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
+  facebook: "stephenajulu"
+  twitter: "stephenajulu"
+  github: "stephenajulu/"
+  instagram: "stephenajulu"
+  linkedin: "stephenajulu"
+  dribbble: "stephenajulu"
+  youtube: "UC043ZXL-t3yqtgcIxJmkHuA"
   
 params:
-  description: "Tech, Life, Design, Finance, Self Development and Other Talks with Ajulu"
+  description: "Tech, Cybersecurity, Lifestyle, Design, Development Finance, and Other Talks with Ajulu"
   images: "images/about.png"
   hero: "images/about.png"
+  default_image: "images/about.png"
   GithubEdit: "https://github.com/stephenajulu/ajulusthoughts2/edit/master/content/"
   formaction: "https://app.convertkit.com/forms/2023413/subscriptions"
   twitter: "@stephenajulu"
   author: "Stephen Ajulu"
+  creator: "Stephen Ajulu"
   toc: true
   adsense:
     client: "ca-pub-2099668045881016"
