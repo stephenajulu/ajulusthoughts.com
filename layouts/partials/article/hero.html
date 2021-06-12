@@ -1,6 +1,6 @@
 <section id="articleHero" class="section narrow">
     <div class="article-hero">
-        <header class="article-header">
+        <header class="article-header" align="center">
             <h1 class="article-hero-heading">{{ .Page.Params.Title }} <sup>{{ partial "edit-posts/edit-on-github" . }}</sup></h1>
             <div class="article-hero-subtitle">
                 <div class="article-meta">
@@ -10,7 +10,7 @@
             </div>
         </header>
         {{ with .Page.Params.hero }}
-        <div class="article-hero-image" id="ArticleImage__Hero" alt="{{ .Title }}">
+        <div class="article-hero-image" id="ArticleImage__Hero">
             <img src="{{ . }}" alt="">
             <br>
         </div>
