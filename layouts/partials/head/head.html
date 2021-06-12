@@ -14,9 +14,10 @@
       {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}
     {{ end -}}
     <link rel="alternate" type="application/rss+xml" href="/index.xml" title="{{ .Site.Title }}' RSS Feed">
-     <script type="module">
-        import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-        const el = document.createElement('pwa-update');
-        document.body.appendChild(el);
-    </script>
+     {{ "<!-- PWAUpdate Script -->" | safeHTML }}
+  <script type="module">
+   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+   const el = document.createElement('pwa-update');
+   document.body.appendChild(el);
+</script>
 </head>
