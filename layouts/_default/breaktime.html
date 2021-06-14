@@ -32,8 +32,21 @@ html, body {
   </head>
   <body>
     
-    <inking-canvas name="myInkingCanvas">
-        <inking-toolbar canvas="myInkingCanvas"></inking-toolbar>
+    <div align="center">
+      <form action="https://ajulusthoughts2-1.netlify.app">
+    <input type="submit" value="Home(Ajulu's Thought)↦" />
+</form>
+    </div>
+    
+        <inking-canvas name="myInkingCanvas">
+        <inking-toolbar canvas="myInkingCanvas" horizontal="center">
+            <inking-toolbar-pen></inking-toolbar-pen>
+            <inking-toolbar-pencil></inking-toolbar-pencil>
+            <inking-toolbar-highlighter></inking-toolbar-highlighter>
+            <inking-toolbar-eraser></inking-toolbar-eraser>
+            <inking-toolbar-copy></inking-toolbar-copy>
+            <inking-toolbar-more></inking-toolbar-more>
+        </inking-toolbar>
     </inking-canvas>
     
     <script>
