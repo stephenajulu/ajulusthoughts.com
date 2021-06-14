@@ -2,12 +2,12 @@
 authors:
 - Stephen Ajulu
 title: Share Buttons For Hugo
-excerpt: Do you have a hugo blog? Need some share buttons? Here are some i made and use.
-date: 2021-06-14T14:10:00+00:00
+excerpt: Do you have a hugo blog? Need some share buttons? Here are some i made and
+  use.
+date: 2021-06-14T14:26:00+03:00
 hero: "/images/share1img.png"
 
 ---
-
 Here's code for ordinary social share buttons. Can be copied as is.
 
 ```html
