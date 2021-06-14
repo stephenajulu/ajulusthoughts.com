@@ -14,6 +14,33 @@
             </small>
         </p>
     </div>
+    
+    
+    <section id="articleNext" class="section nartrow">
+    <div class="footer-spacer"></div>
+    <div class="next-articles-grid" numberOfArticles={numberOfArticles}>
+        <div class="post-row" id="summary-${key}">
+                <a href="${link}" class="article-link"
+                {{ if not $index}} id="article-link-bigger"{{ end }}>
+                    <div>
+                        <div>
+                            <h2 class="article-title">
+                                ${title}
+                            </h2>
+                            <p class="article-excerpt">
+                                ${snippet}
+                            </p>
+                            <div class="article-metadata">
+                                ${ isset tags }Tags: ${tags}<br>${ end }
+                            </div>
+                        </div>
+                    </div>
+                </a>
+        </div>
+    </div>
+</section>
+    
+    
     </script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
