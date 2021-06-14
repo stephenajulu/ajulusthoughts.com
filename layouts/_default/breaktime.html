@@ -1,7 +1,35 @@
-{{ define "main" }}
+<html lang="en">
+  <head>
+    <title>Hi! Take A Break and Draw!</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<div class="section narrow main">
-<script type="module" src="https://cdn.jsdelivr.net/npm/@pwabuilder/pwa-inking"></script>
-</div>
+<style>
+  /* CSS files add styling rules to your content */
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+    </style>
 
-{{ end }}
+    <!-- import the webpage's javascript file -->
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/npm/@pwabuilder/pwa-inking@1.0.3"
+    ></script>
+  </head>
+  <body>
+    
+    <inking-canvas name="myInkingCanvas">
+        <inking-toolbar canvas="myInkingCanvas"></inking-toolbar>
+    </inking-canvas>
+    
+    <script>
+// prints "hi" in the browser's dev tools console
+console.log("hi! im stephen. looking for developers. email me: alunje73@gmail.com");
+
+    </script>
+  </body>
+</html>
