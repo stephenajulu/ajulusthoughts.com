@@ -4,6 +4,11 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/favicon.png">
+    {{ partial "head/meta.html" . }}
+    {{ partial "seo/print.html" . }}
+    <link rel="alternate" type="application/rss+xml" href="/index.xml" title="{{ .Site.Title }}' RSS Feed">
+     
 
 <style>
   /* CSS files add styling rules to your content */
@@ -19,6 +24,11 @@ html, body {
       type="module"
       src="https://cdn.jsdelivr.net/npm/@pwabuilder/pwa-inking@1.0.3"
     ></script>
+  <script type="module">
+   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+   const el = document.createElement('pwa-update');
+   document.body.appendChild(el);
+</script>
   </head>
   <body>
     
@@ -29,7 +39,6 @@ html, body {
     <script>
 // prints "hi" in the browser's dev tools console
 console.log("hi! im stephen. looking for developers. email me: alunje73@gmail.com");
-
     </script>
   </body>
 </html>
