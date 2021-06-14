@@ -17,6 +17,9 @@ html, body {
     width: 100%;
     margin: 0;
 }
+  inking-canvas::part(canvas) {
+        border: none;
+    }
     </style>
 
     <!-- import the webpage's javascript file -->
@@ -45,6 +48,7 @@ html, body {
             <inking-toolbar-highlighter></inking-toolbar-highlighter>
             <inking-toolbar-eraser></inking-toolbar-eraser>
             <inking-toolbar-copy></inking-toolbar-copy>
+            <inking-toolbar-save></inking-toolbar-save>
             <inking-toolbar-more></inking-toolbar-more>
         </inking-toolbar>
     </inking-canvas>
