@@ -6,6 +6,8 @@
                 <div class="article-meta" style="justify-content:center;text-align:center;align:center;">
                     {{ partial "article/authors.html" . }}
                     {{ .Page.Date.Format "January 2, 2006" }}
+                    {{ if gt (len .Params.categories) 2 }}{{ else }}{{ end }}
+                    {{ range .Params.categories }}{{ . }}{{ end }}
                 </div>
             </div>
         </header>
