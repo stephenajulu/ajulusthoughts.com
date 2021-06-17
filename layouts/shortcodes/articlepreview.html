@@ -6,17 +6,17 @@
                 <a href="{{ $page.RelPermalink }}" class="article-link" id="article-link-bigger">
                     <div>
                         <div class="image-container">
-                            <img src="{{ $page.hero }}" class="article-image" />
+                            <img src="{{ $page.Params.hero }}" class="article-image" />
                         </div>
                         <div>
                             <h2 class="article-title" align="center">
                                 {{ $page.Title }}
                             </h2>
                             <p class="article-excerpt">
-                                {{ $page.excerpt }}
+                                {{ $page.Params.excerpt }}
                             </p>
                             <div class="article-metadata" align="center">
-                                {{ $page.Date.Format "January 2, 2006" }} · {{ $page.ReadingTime }} min read
+                                {{ $page.Params.Date.Format "January 2, 2006" }} · {{ $page.Params.ReadingTime }} min read
                             </div>
                         </div>
                     </div>
