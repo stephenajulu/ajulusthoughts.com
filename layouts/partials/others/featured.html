@@ -3,7 +3,7 @@
     <div class="next-articles-grid">
         <div class="post-row">
             {{ range first 1 .Site.Taxonomies.tags.featured }}
-                <a href="{{ .RelPermalink }}" class="article-link" id="article-link-biggest" style="max-width: 98%;">
+                <a href="{{ .RelPermalink }}" class="article-link" id="article-link-biggest" style="max-width: 88%;">
                     <div>
                         <div class="image-container">
                             <img src="{{ .Params.hero }}" class="article-image" alt="{{ .Title }}"/>
