@@ -6,7 +6,6 @@ excerpt: Are you a blogger using hugo? Then here's how you can add a native shar
   button built using the Web Share API simply
 date: 2021-06-17T05:57:00+03:00
 hero: "/static/images/web-share-api-small.png"
-draft: true
 
 ---
 Hi guys, if you are a blogger using gohugo. This is for you!
