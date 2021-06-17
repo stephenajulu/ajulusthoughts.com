@@ -1,6 +1,5 @@
 {{$page := .Site.GetPage (.Get 0)}}
-<section id="articleNext" class="section nartrow">
-    <div class="footer-spacer"></div>
+<section id="articleNext" class="section nartrow" align="center" style="align:center; justify-content:center; border: 1px solid #6166DC; border-radius: 5px;">
     <div class="next-articles-grid">
         <div class="post-row">
                 <a href="{{ $page.RelPermalink }}" class="article-link" id="article-link-bigger">
@@ -13,12 +12,11 @@
                                 {{ $page.Title }}
                             </h2>
                             <p class="article-excerpt">
-                                {{ $page.Params.Summary }}
+                                {{ $page.Summary }}
                             </p>
                         </div>
                     </div>
                 </a>
-
         </div>
     </div>
 </section>
