@@ -2,7 +2,7 @@
 <section id="articleNext" class="section nartrow" align="center" style="align:center; justify-content:center;">
     <div class="next-articles-grid">
         <div class="post-row" style="align:center; justify-content:center;">
-                <a href="{{ $page.RelPermalink }}" class="article-link" id="article-link-bigger" style="border: 1px solid #6166DC; border-radius: 5px;">
+                <a href="{{ $page.RelPermalink }}" class="article-link" id="article-link-bigger">
                     <div>
                         <div class="image-container">
                             <img src="{{ $page.Params.hero }}" class="article-image" />
@@ -14,6 +14,9 @@
                             <p class="article-excerpt">
                                 {{ $page.Params.excerpt }}
                             </p>
+                            <div class="article-metadata">
+                                {{ $page.Date | dateFormat "January 2, 2006" }} · {{ $page.ReadingTime }} min read
+                            </div>
                         </div>
                     </div>
                 </a>
