@@ -132,4 +132,4 @@ Since I already have a fall back I will not include that here as I already menti
 
 Check it out.
 
-{{< articlepreview "/post/share-buttons-for-hugo/" >}}
+{{< articlepreview "/post/share-buttons-for-hugo" >}}
