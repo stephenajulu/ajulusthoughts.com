@@ -9,9 +9,15 @@
                             <img src="{{ .Params.hero }}" class="article-image" alt="{{ .Title }}"/>
                         </div>
                         <div>
-                            <h2 class="article-title" align="center">
+                            <h2 class="article-title">
                                 {{ .Title }}
                             </h2>
+                            <p class="article-excerpt">
+                                {{ .Params.excerpt }}
+                            </p>
+                            <div class="article-metadata">
+                                {{ .Date | dateFormat "January 2, 2006" }} · {{ .ReadingTime }} min read
+                            </div>
                         </div>
                     </div>
                 </a>
