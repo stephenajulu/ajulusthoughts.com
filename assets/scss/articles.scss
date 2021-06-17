@@ -576,6 +576,15 @@
   }
 }
 
+#article-link-biggest{
+  max-width: 98% !important; 
+
+  /*DESKTOP MEDIUM*/
+  @media screen and (max-width: $desktop_medium){
+    max-width: 48.5% !important;
+  }
+}
+
 .articles-list-container-alt{
 
     .post-row{
