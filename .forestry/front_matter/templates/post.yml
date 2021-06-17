@@ -30,3 +30,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/simple-web-share-for-hugo.md
