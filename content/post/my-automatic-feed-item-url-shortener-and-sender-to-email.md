@@ -5,7 +5,7 @@ title: My Automatic Feed Item URL Shortener and Sender to Email
 excerpt: "Yes, that's it's name \U0001F601. Made a tool i can't use. Come, read what
   this is about."
 date: 2021-06-17T08:00:00+03:00
-hero: "/static/images/afiussg.jpeg"
+hero: "/images/afiussg.jpeg"
 
 ---
 Hi there! Welcome back. I'm experiencing Nairobi's chilly morning. Woke up around 2.30 am. Anyway, i'd like to introduce a new tool. one I sadly can't use as it requires I upgrade to a professional account. It's a multistep zap.
