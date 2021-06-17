@@ -31,4 +31,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/my-automatic-feed-item-url-shortener-and-sender-to-email.md
 - content/post/simple-web-share-for-hugo.md
