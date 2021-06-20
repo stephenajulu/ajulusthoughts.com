@@ -4,18 +4,18 @@ authors:
 title: 10 Cybersecurity Tips That Might Save Your Life and Your Data
 excerpt: We are in the information age, where if i need your phone number i google
   you and find it. Here are tips and tricks that might save your life!
-date: 2021-06-20T13:20:00+03:00
+date: 2021-06-20T13:20:00.000+03:00
 hero: "/images/cyber-featured.png"
 categories:
-  - cybersecurity
+- cybersecurity
 tags:
-  - cybersecurity
-  - personal security
-  - security
-  - information security
-  - data
-  - personal data
-  - 
+- cybersecurity
+- personal security
+- security
+- information security
+- data
+- personal data
+- 
 
 ---
 Hi there! Welcome back to Ajulu's Thoughts. Today I'd like to teach you 10 tips that could save your life.
