@@ -30,6 +30,14 @@ fields:
   type: tag_list
   default: []
   label: Authors
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - content/post/10-cybersecurity-tips-that-might-save-your-life-and-your-data.md
 - content/post/my-automatic-feed-item-url-shortener-and-sender-to-email.md
