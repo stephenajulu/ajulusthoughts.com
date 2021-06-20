@@ -8,7 +8,7 @@ tags:
 title: Top 100 Most Common Passwords + Precautionary Measures
 excerpt: Top 100 Most Common Passwords + Precautionary Measures
 date: 2021-06-20T16:13:00+03:00
-hero: "/static/images/cpl.png"
+hero: "/images/cpl.png"
 
 ---
 
