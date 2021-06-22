@@ -9,9 +9,7 @@
     "thumbnailUrl": "https://ajulusthoughts.stephenajulu.com/logo.png"
 }
 </script>
-{{ end }}
-
-{{ if eq .Section "posts" }}
+{{ else if eq .Section "posts" }}
 <script type="application/ld+json">
 	{
 		"@context":"http://schema.org",
@@ -60,9 +58,7 @@
 		"articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
 	}
 </script>
-{{ end }}
-
-{{ if .IsPage }}
+{{ else }}
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
