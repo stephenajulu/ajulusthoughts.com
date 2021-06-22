@@ -54,7 +54,7 @@
 			}
 		},
 		"mainEntityOfPage": "True",
-		"articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
+		"articleBody": {{ .Content | safeJS | htmlUnescape | plainify }}
 	}
 </script>
 {{ end }}
@@ -64,7 +64,7 @@
     "@context": "http://schema.org",
     "@type": "WebPage",
     "name": "{{ .Title }}",
-    "description": "{{ .Summary }}",
+    "description": {{ .Summary }},
     "publisher": {
         "@type": "ProfilePage",
         "name": "Stephen Ajulu"
