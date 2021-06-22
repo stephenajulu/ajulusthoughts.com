@@ -58,7 +58,8 @@
 		"articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
 	}
 </script>
-{{ else if .IsPage }}
+{{ else }}
+{{ if .IsPage }}
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
