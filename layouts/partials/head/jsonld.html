@@ -57,7 +57,7 @@
 		"articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
 	}
 </script>
-{{ else }}
+{{ end }}
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -70,4 +70,3 @@
     }
 }
 </script>
-{{ end }}
