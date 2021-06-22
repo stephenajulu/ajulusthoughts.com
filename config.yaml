@@ -11,7 +11,7 @@ enableRobotsTXT: true
 social:
   facebook: "stephenajulu"
   twitter: "stephenajulu"
-  github: "stephenajulu/"
+  github: "stephenajulu"
   instagram: "stephenajulu"
   linkedin: "stephenajulu"
   dribbble: "stephenajulu"
@@ -22,11 +22,13 @@ params:
   images: "images/about.png"
   hero: "images/about.png"
   default_image: "images/about.png"
+  logo: "logo.png"
   GithubEdit: "https://github.com/stephenajulu/ajulusthoughts2/edit/master/content/"
   formaction: "https://app.convertkit.com/forms/2023413/subscriptions"
   twitter: "@stephenajulu"
   author: "Stephen Ajulu"
   creator: "Stephen Ajulu"
+  copyright: "Stephen Ajulu"
   toc: true
   adsense:
     client: "ca-pub-2099668045881016"
