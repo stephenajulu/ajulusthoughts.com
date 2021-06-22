@@ -58,7 +58,8 @@
 		"articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
 	}
 </script>
-{{ else }}
+{{ end }}
+
 {{ if .IsPage }}
 <script type="application/ld+json">
 {
