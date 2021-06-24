@@ -53,6 +53,17 @@ title: About
 2. **📨** [**Email**](mailto:alunje73@gmail.com) - If it's a longer thing, or you don't want it to be a public tweet, please email me (ajulu@stephenajulu.com). I read 100% of emails but there's only enough time in the day to reply to around 30%. If you reply to my [weekly newsletter](https://newsletter.stephenajulu.com/) with a specific question, the chances I'll reply are much higher, as I like to spend Sundays doing chill stuff like replying to emails.
 3. [**Contact Page**](/contact) - I aim to reply to these as fast as possible, feel free to contact me here if you would like to guest post, advertise, share an opinion, submit a tip, sponsor a post, report a bug, want to redesign this site, have legal issues with this blog among others.
 
+#### Latest Posts
+
+<div>
+  <ul style="display:inline; list-style-type: none;">
+  {{ range first 5 (where site.RegularPages "Type" "post") }}
+    <li style="font-family: DM Serif Display; font-size: 36px; font-weight: 600;"><a href="{{ .RelPermalink }}">{{ .Title }}<sub>{{ .Date.Format "JAN 2" }}</sub>/</a></li>
+  {{ end }}
+    <li style="font-family: DM Serif Display; font-size: 36px; font-weight: 600;"><a href="/">All Posts<sub>VIEW ALL</sub>/</a></li>
+  </ul>
+</div>
+
 #### Stack and Gratitude
 
 Special Thanks to:
