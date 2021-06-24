@@ -1,5 +1,6 @@
 ---
 title: About
+hero: "/images/stephen-ajulu-1.jpg"
 
 ---
 ![](/images/stephen-ajulu-1.jpg)
