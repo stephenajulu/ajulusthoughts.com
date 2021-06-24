@@ -1,8 +1,8 @@
 <div>
-  <ul style="display:inline; list-style-type: none;">
+  <ul>
   {{ range first 5 (where site.RegularPages "Type" "post") }}
-    <li style="font-family: DM Serif Display; font-size: 36px; font-weight: 600;"><a href="{{ .RelPermalink }}">{{ .Title }}<sub>{{ .Date.Format "JAN 2" }}</sub>/</a></li>
+    <li style="font-family: DM Serif Display; font-weight: 600;"><a href="{{ .RelPermalink }}">{{ .Title }}<sup style="font-size: 10px;">{{ .Date.Format "JAN 2" }}</sup></a></li>
   {{ end }}
-    <li style="font-family: DM Serif Display; font-size: 36px; font-weight: 600;"><a href="/">All Posts<sub>VIEW ALL</sub>/</a></li>
+    <li style="font-family: DM Serif Display; font-weight: 600;"><a href="/">All Posts</a></li>
   </ul>
 </div>
