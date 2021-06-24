@@ -21,7 +21,7 @@
 </style>
 
 <div class="gallery">
-    {{ $path := print "static/images/" (.Get "src")  }}
+    {{ $path := print "static/" (.Get "src")  }}
     {{ $url  := print (.Get "src") }}
     {{ range (readDir $path)  }}
         {{/* don't try to display .DS_Store or directories */}}
