@@ -3,11 +3,11 @@ title: About
 ---
 ![](/images/stephen-ajulu-1.jpg)
 
-##### Hi there! My name is Stephen Ajulu
+### Hi there! My name is Stephen Ajulu
 
-##### I am a frontend web developer, designer, ethical hacker and content creator
+### I am a frontend web developer, designer, ethical hacker and content creator
 
-##### I love to create, grow, represent and sell solutions, ideas, brands, websites, graphic materials and more.
+### I love to create, grow, represent and sell solutions, ideas, brands, websites, graphic materials and more.
 
 <br>
 
@@ -55,14 +55,7 @@ title: About
 
 #### Latest Posts
 
-<div>
-  <ul style="display:inline; list-style-type: none;">
-  {{ range first 5 (where site.RegularPages "Type" "post") }}
-    <li style="font-family: DM Serif Display; font-size: 36px; font-weight: 600;"><a href="{{ .RelPermalink }}">{{ .Title }}<sub>{{ .Date.Format "JAN 2" }}</sub>/</a></li>
-  {{ end }}
-    <li style="font-family: DM Serif Display; font-size: 36px; font-weight: 600;"><a href="/">All Posts<sub>VIEW ALL</sub>/</a></li>
-  </ul>
-</div>
+{{< articlelist >}}
 
 #### Stack and Gratitude
 
