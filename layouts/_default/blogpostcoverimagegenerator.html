@@ -142,91 +142,6 @@ body {
    const el = document.createElement('pwa-update');
    document.body.appendChild(el);
 </script>
-  </head>
-  <body>
-        <div align="center">
-      <form action="https://ajulusthoughts2-1.netlify.app">
-    <input type="submit" value="Home(Ajulu's Thought)↦" />
-</form>
-    </div>
-    
-    <div class="wrapper">
-  <div class="wrapper__inner">
-    <svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" class="social-image">
-      <style>
-        * {
-          margin: 0;
-          padding: 0;
-          box-sizing: border-box;
-        }
-
-        .social-image {
-          --align-text-x: flex-start;
-          --align-text-y: flex-end;
-
-          width: 100%;
-          background: #f5f7fa;
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-          line-height: 1;
-        }
-
-        .social-image__html {
-          display: flex;
-          height: 100%;
-          justify-content: var(--align-text-x);
-          align-items: var(--align-text-y);
-          padding: 72px;
-
-        }
-
-        .social-image__text {
-          max-width: 700px;
-        }
-
-        .social-image__title {
-          font-size: 56px;
-          line-height: 68px;
-          font-weight: 800;
-          margin-bottom: 24px;
-          letter-spacing: -0.0125em;
-          outline: none;
-        }
-
-        .social-image__meta {
-          grid-column: 2;
-          font-weight: 500;
-          font-size: 24px;
-          line-height: 36px;
-          outline: none;
-          letter-spacing: -0.0125em;
-        }
-      </style>
-      <g>
-        <foreignObject x="0" y="0" width="1200" height="630">
-          <div class="social-image__html">
-            <div class="social-image__text">
-              <h1 xmlns="http://www.w3.org/1999/xhtml" class="social-image__title" contentEditable>All of this text is editable...
-                click on it and start typing!</h1>
-              <h2 xmlns="http://www.w3.org/1999/xhtml" class="social-image__meta" contentEditable>As you type, the background will adapt itself to the text, making sure the shapes never overlap.</h2>
-            </div>
-          </div>
-        </foreignObject>
-      </g>
-    </svg>
-  </div>
-  <div class="controls">
-
-    <div class="controls__randomize">
-      <p class="controls__label">Randomize:</p>
-      <button class="controls__btn controls__btn--alignment">Alignment</button>
-      <button class="controls__btn controls__btn--colors">Colors</button>
-      <button class="controls__btn controls__btn--shapes">Shapes</button>
-    </div>
-    <button class="controls__btn controls__btn--save">Save</button>
-    <p class="controls__saving-disabled">Saving is disabled on mobile devices</p>
-  </div>
-
-</div>
     
     <script>
       import { SVG } from "https://cdn.skypack.dev/@svgdotjs/svg.js";
@@ -470,6 +385,92 @@ saveBtn.addEventListener("click", () => {
 });
 
     </script>
+  </head>
+  <body>
+        <div align="center">
+      <form action="https://ajulusthoughts2-1.netlify.app">
+    <input type="submit" value="Home(Ajulu's Thought)↦" />
+</form>
+    </div>
+    
+    <div class="wrapper">
+  <div class="wrapper__inner">
+    <svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" class="social-image">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+
+        .social-image {
+          --align-text-x: flex-start;
+          --align-text-y: flex-end;
+
+          width: 100%;
+          background: #f5f7fa;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          line-height: 1;
+        }
+
+        .social-image__html {
+          display: flex;
+          height: 100%;
+          justify-content: var(--align-text-x);
+          align-items: var(--align-text-y);
+          padding: 72px;
+
+        }
+
+        .social-image__text {
+          max-width: 700px;
+        }
+
+        .social-image__title {
+          font-size: 56px;
+          line-height: 68px;
+          font-weight: 800;
+          margin-bottom: 24px;
+          letter-spacing: -0.0125em;
+          outline: none;
+        }
+
+        .social-image__meta {
+          grid-column: 2;
+          font-weight: 500;
+          font-size: 24px;
+          line-height: 36px;
+          outline: none;
+          letter-spacing: -0.0125em;
+        }
+      </style>
+      <g>
+        <foreignObject x="0" y="0" width="1200" height="630">
+          <div class="social-image__html">
+            <div class="social-image__text">
+              <h1 xmlns="http://www.w3.org/1999/xhtml" class="social-image__title" contentEditable>All of this text is editable...
+                click on it and start typing!</h1>
+              <h2 xmlns="http://www.w3.org/1999/xhtml" class="social-image__meta" contentEditable>As you type, the background will adapt itself to the text, making sure the shapes never overlap.</h2>
+            </div>
+          </div>
+        </foreignObject>
+      </g>
+    </svg>
+  </div>
+  <div class="controls">
+
+    <div class="controls__randomize">
+      <p class="controls__label">Randomize:</p>
+      <button class="controls__btn controls__btn--alignment">Alignment</button>
+      <button class="controls__btn controls__btn--colors">Colors</button>
+      <button class="controls__btn controls__btn--shapes">Shapes</button>
+    </div>
+    <button class="controls__btn controls__btn--save">Save</button>
+    <p class="controls__saving-disabled">Saving is disabled on mobile devices</p>
+  </div>
+
+</div>
+    
     
     <script>
 // prints "hi" in the browser's dev tools console
