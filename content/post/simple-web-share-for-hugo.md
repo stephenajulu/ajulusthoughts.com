@@ -4,16 +4,10 @@ authors:
 title: Simple Web Share for Hugo
 excerpt: Are you a blogger using hugo? Then here's how you can add a native share
   button built using the Web Share API simply
-date: 2021-06-17T05:57:00+03:00
+date: 2021-06-17T05:57:00.000+03:00
 hero: "/images/web-share-api-small.png"
-categories:
-  - hugo
-tags:
-- web share
-- share
-- sharing
-- hugo
-- gohugo
+categories: []
+tags: []
 
 ---
 Hi guys, if you are a blogger using gohugo. This is for you!
@@ -132,4 +126,4 @@ Since I already have a fall back I will not include that here as I already menti
 
 Check it out.
 
-{{< articlepreview "/post/share-buttons-for-hugo" >}}
+{{< articlepreview "/post/share-buttons-for-hugo/" >}}
