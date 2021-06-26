@@ -1,0 +1,95 @@
+---
+authors:
+- Stephen Ajulu
+categories:
+- SEO
+tags:
+- schema
+- jsonld
+- schema markup
+- search engine optimization
+title: How To Add Schema JSON-LD to Your Hugo Blog/Site
+excerpt: Here's a simple way to add schema json-ld markup to your hugo blog or site
+date: 2021-06-26T17:53:00+03:00
+hero: "/static/images/generative-social-image-1.png"
+
+---
+Here's the code:
+
+    {{ if .IsHome }}
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Ajulu's Thoughts",
+        "url": "https://ajulusthoughts.stephenajulu.com",
+        "description": "Tech, Lifestyle, Cybersecurity, Finance, Design, Dev Among Other Thoughts with Ajulu.",
+        "thumbnailUrl": "https://ajulusthoughts.stephenajulu.com/logo.png"
+    }
+    </script>
+    {{ end }}
+    
+    {{ if eq .Section "post" }}
+    <script type="application/ld+json">
+    	{
+    		"@context":"http://schema.org",
+    		"@type": "BlogPosting", 
+    		"image": "{{ .Params.hero | absURL }}", 
+    		"url": "{{ .Permalink }}",
+    		"headline": "{{ .Title }}",
+    		"alternativeHeadline": "{{ .Title }}",
+    		"dateCreated": {{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+    		"datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+    		"dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+    		"inLanguage": "{{ .Site.LanguageCode }}",
+    		"isFamilyFriendly": "true",
+    		"copyrightYear": "{{ .PublishDate.Format "2006" | safeHTML }}",
+    		"copyrightHolder": "{{ .Site.Params.author }}",
+    		"contentLocation": {
+    			"@type": "Place",
+    			"name": "Nairobi, Kenya"
+    		},
+    		"accountablePerson": {
+    			"@type": "Person",
+    			"name": "Stephen Ajulu",
+    			"url": "https://stephenajulu.com"
+    		},
+    		"author": {
+    			"@type": "Person",
+    			"name": "Stephen Ajulu",
+    			"url": "https://stephenajulu.com"
+    		},
+    		"creator": {
+    			"@type": "Person",
+    			"name": "Stephen Ajulu",
+    			"url": "https://stephenajulu.com"
+    		},
+    		"publisher": {
+    			"@type": "Organization",
+    			"name": "Ajulu's Thoughts",
+    			"url": "https://ajulusthoughts.stephenajulu.com",
+    			"logo": {
+    				"@type": "ImageObject",
+    				"url": "https://ajulusthoughts2-1.netlify.app/logo.png",
+    			}
+    		},
+    		"mainEntityOfPage": "True",
+    		"articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
+    	}
+    </script>
+    {{ end }}
+    
+    {{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "{{ .Title }}",
+        "description": {{ .Summary }},
+        "publisher": {
+            "@type": "ProfilePage",
+            "name": "Stephen Ajulu"
+        }
+    }
+    </script>
+    {{ end }}
