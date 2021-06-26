@@ -11,7 +11,7 @@ tags:
 title: Introversion Sucks, But....
 excerpt: Here i talk about my curse which is also a blessing
 date: 2021-06-26T18:30:00+03:00
-hero: "/static/images/introversion-sucks-but.png"
+hero: "/images/introversion-sucks-but.png"
 
 ---
 Hi there, twice in one row, yea! yea!
