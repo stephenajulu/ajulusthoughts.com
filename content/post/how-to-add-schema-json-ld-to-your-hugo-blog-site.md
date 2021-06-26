@@ -11,11 +11,11 @@ tags:
 title: How To Add Schema JSON-LD to Your Hugo Blog/Site
 excerpt: Here's a simple way to add schema json-ld markup to your hugo blog or site
 date: 2021-06-26T17:53:00+03:00
-hero: "/static/images/generative-social-image-1.png"
+hero: "/images/generative-social-image-1.png"
 
 ---
 Here's the code:
-
+```html
     {{ if .IsHome }}
     <script type="application/ld+json">
     {
@@ -93,3 +93,17 @@ Here's the code:
     }
     </script>
     {{ end }}
+```
+
+Now before you go, kindly go check out these 3 companies
+1. [Esntls](https://www.esntls.co/?ref=kuzqn53jomp-) - They sell great affordable clothing. 
+2. [JadeBlack](https://www.jadeblack.co/?ref=kuzqn53jomp-) - They create and sell design level glasses(sunglasses and blue light blocking glasses) at affordable prices
+3. [Santa Lucia Fragrance](https://santaluciafragrance.com/?ref=kuzqn53jomp-) - They sell absolutely amazing perfumes for men
+
+Feel free to use my coupon code on the three sites, to get 10% off every purchase, coupon code: STEPHENAJULU
+Don't miss out for JadeBlack's new products coming out on the 26th of June.
+
+I'd like to introduce Skillshare, a wonderful place to learn all sorts of things from financial literacy to web development and much more. I personally have been learing how to manage my money through a course by Filipa Canelas. Here's the course's link: [Personal Finances - Manage Your Money and Your Financial Freedom](https://www.skillshare.com/classes/Personal-Finances-%E2%80%94-Manage-your-Money-and-your-Financial-Freedom/1240823317/projects?via=search-layout-grid)
+To join and receive 1 free month, click here: [1 Free Premium Month Skillshare](https://skl.sh/3wxbE9O)
+
+Thank you everyone, have a nice day!
