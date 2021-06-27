@@ -9,3 +9,16 @@ hero: ''
 draft: true
 
 ---
+ Here's the app of the week
+
+## Simplenote
+
+This is a "minimal but gets the job done" note taking app. 
+
+It was built by Automattic. 
+
+**Pros**
+
+1. Minimal Interface
+2. Supports markdown
+3. 
