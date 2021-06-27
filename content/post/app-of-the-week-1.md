@@ -31,3 +31,6 @@ Personally, it's my favorite wallpaper app and the artist is still releasing mor
 2. No new wallpapers
 
 I recommend buying the Pro, the pro wallpapers are awesome!
+
+Don't forget to pass by
+{{< articlepreview "/post/app-of-the-week-2.md/" >}}
