@@ -3,13 +3,13 @@ authors:
 - Stephen Ajulu
 categories:
 - apps
-tags: 
+tags:
 - apps
 - simplenote
 - note taking
 title: 'App of The Week #2'
 excerpt: App of The Week Award Goes To Simplenote by Automattic
-date: 2021-06-27T06:40:00+03:00
+date: 2021-06-27T06:40:00.000+03:00
 hero: "/images/adobe_post_20210627_0658040-5932378357381964.png"
 
 ---
@@ -50,5 +50,4 @@ I’d like to introduce Skillshare, a wonderful place to learn all sorts of thin
 
 To join and receive 1 free month, click here: [1 Free Premium Month Skillshare](https://skl.sh/3wxbE9O)
 
-Don't forget to pass by here:
-{{< articlepreview "/post/web-tool-of-the-week-2.md/" >}}
+Don't forget to pass by here: {{< articlepreview "/post/web-tool-of-the-week-2.md" >}}
