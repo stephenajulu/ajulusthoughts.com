@@ -1,11 +1,16 @@
 ---
-authors: []
-categories: []
-tags: []
+authors:
+- Stephen Ajulu
+categories:
+- apps
+tags: 
+- apps
+- simplenote
+- note taking
 title: 'App of The Week #2'
 excerpt: App of The Week Award Goes To Simplenote by Automattic
 date: 2021-06-27T06:40:00+03:00
-hero: "/static/images/adobe_post_20210627_0658040-5932378357381964.png"
+hero: "/images/adobe_post_20210627_0658040-5932378357381964.png"
 
 ---
 Here's the app of the week #2
