@@ -10,7 +10,7 @@ tags:
 title: How to Become Healthy + My Tips
 excerpt: Here are simple and easy to integrate tips that I believe will help you get
   your health back and keep it
-date: 2021-06-27T13:25:00+03:00
+date: 2021-06-27T13:25:00.000+03:00
 hero: "/images/healthytips.png"
 
 ---
@@ -22,17 +22,17 @@ Today I'd like to take this opportunity to share with you tips and tricks that w
 
 ## 1. Cut out sugar completely
 
-Many don't realize that sugar is as addictive as cocaine, or that it's the number 1 food for cancer(No 2 being [MSG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746034/)). Cut it out completely, this means no sugar, no honey, no fruits and no "hidden" sugars. Sugar causes inflammation and puts stress on the body. Plus there's the fact that it spikes insulin. I don't want to offend doctors and others but they keep endorsing foods with sugar, knowing very well how bad it is to the body.
+Many don't realize that sugar is as addictive as cocaine, or that it's the number 1 food for cancer(No 2 being [MSG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746034/)). Cut it out completely, this means no sugar, no honey, no fruits, and no "hidden" sugars. Sugar causes inflammation and puts stress on the body. Plus there's the fact that it spikes insulin. I don't want to offend doctors and others but they keep endorsing foods with sugar, knowing very well how bad it is to the body.
 
 ## 2. Cut out vegetable fats, embrace animal fats
 
-I know how controversial this is. But vegetable fat especially the liquid versions are unstable. It was found out to be one molecule away from plastic(we all know how bad plastic is to our bodies). It's just not right for you. Before we used to eat animal fats, people were healthy, low heart and artery issues. Now just look at the world. If vegetable fat was good then things out to have changed, even a little bit. We are literally eating machine/engine lubricant. Don't be fooled by these industries, they are lying to you to fill their pockets, and then the health guys benefit from this.
+I know how controversial this is. But vegetable fat especially the liquid versions is unstable. It was found out to be one molecule away from plastic(we all know how bad plastic is to our bodies). It's just not right for you. Before we used to eat animal fats, people were healthy, low heart and artery issues. Now just look at the world. If vegetable fat was good then things out to have changed, even a little bit. We are literally eating machine/engine lubricant. Don't be fooled by these industries, they are lying to you to fill their pockets, and then the health guys benefit from this.
 
 Kindly read the book "[The Big Fat Suprise by Nina Teicholz](https://www.amazon.com/gp/product/1451624433/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451624433&linkCode=as2&tag=stephenajulu-20&linkId=505998cbd172625f0bb6b834c1d53b39)" and learn how important saturated fats are for your body and the whole lie surrounding them. Testosterone is on the decline due to a lack of adequate saturated fats.
 
 ## 3. Eat more meat and eggs
 
-Meat and eggs are important for your body. Forget vegetable protein. Animal meat and eggs are rich in proteins and amino acids that are crucial. Go for free-range products or as Kenyans call it "Kienyeji". These have more nutrients. Especially Eggs, they are superfoods, eat more of them. Try the [carnivore diet](https://www.healthline.com/nutrition/carnivore-diet#:\~:text=The%20Carnivore%20Diet%20is%20a,grains%2C%20nuts%2C%20and%20seeds.).
+Meat and eggs are important for your body. Forget vegetable protein. Animal meat and eggs are rich in proteins and crucial amino acids. Go for free-range products or as Kenyans call it "Kienyeji". These have more nutrients. Especially Eggs, they are superfoods, eat more of them. Try the [carnivore diet](https://www.healthline.com/nutrition/carnivore-diet#:\~:text=The%20Carnivore%20Diet%20is%20a,grains%2C%20nuts%2C%20and%20seeds.).
 
 ## 4. Exercise at least twice a week and for 40 minutes
 
@@ -48,7 +48,7 @@ I don't know where to begin. Properly fermented food has been shown to increase 
 
 Here's the full list of benefits: [What Are Fermented Foods? - Heart Foundation](https://www.heartfoundation.org.nz/about-us/news/blogs/fermented-foods-the-latest-trend)
 
-## 7. More green leafy and [**cruciferous **](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi-qbyOvrfxAhUnAGMBHRbyCWAQFjAHegQIBRAD&url=https%3A%2F%2Fwww.cancer.gov%2Fabout-cancer%2Fcauses-prevention%2Frisk%2Fdiet%2Fcruciferous-vegetables-fact-sheet&usg=AOvVaw06Rs6U1Fooyphm57GAQ62B)vegetables
+## 7. More green leafy and [cruciferous](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi-qbyOvrfxAhUnAGMBHRbyCWAQFjAHegQIBRAD&url=https%3A%2F%2Fwww.cancer.gov%2Fabout-cancer%2Fcauses-prevention%2Frisk%2Fdiet%2Fcruciferous-vegetables-fact-sheet&usg=AOvVaw06Rs6U1Fooyphm57GAQ62B) vegetables
 
 This has been shown to slow down and eradicate cancer among so many benefits.
 
@@ -70,17 +70,17 @@ No by no means am I telling you not to have your fill. I mean try adopting the [
 
 ## 12. Add a little more salt
 
-Now, now, listen. Salt is a key electrolyte and helps the body perform a lot of things, including removing toxins and waste from cells. You are probably taking too little. Up your salt intake. Check these articles out.
+Now, listen. Salt is a key electrolyte and helps the body perform a lot of things, including removing toxins and waste from cells. You are probably taking too little. Up your salt intake. Check these articles out.
 
 [6 Little-Known Dangers of Restricting Sodium Too Much (healthline.com)](https://www.healthline.com/nutrition/6-dangers-of-sodium-restriction#TOC_TITLE_HDR_2)
 
-[6 things you thought you knew about salt that just aren’t true | Queensland Health](https://www.health.qld.gov.au/news-events/news/6-things-about-salt-that-arent-true)
+[6 things you thought you knew about salt that just isn’t true | Queensland Health](https://www.health.qld.gov.au/news-events/news/6-things-about-salt-that-arent-true)
 
 [All About Salt: Health Benefits, Risks, Types, How to Cut Back, and More | Everyday Health](https://www.everydayhealth.com/diet-nutrition/diet/salt-health-benefits-risks-types-how-cut-back-more/)
 
 [13 Surprising Reasons to Eat More Salt. You heard me. (intoxicatedonlife.com)](https://www.intoxicatedonlife.com/17-surprising-reasons-to-eat-more-salt/)
 
-## 11. Avoid [red dye](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuyfeRxrfxAhXWCWMBHTCeDWAQFjALegQIBBAD&url=https%3A%2F%2Fwww.healthline.com%2Fnutrition%2Fred-dye-40&usg=AOvVaw228KK0vojHOlOZotmBKyuK)(artificial), MSG, heat, and soy, especially in men
+## 13. Avoid [red dye](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuyfeRxrfxAhXWCWMBHTCeDWAQFjALegQIBBAD&url=https%3A%2F%2Fwww.healthline.com%2Fnutrition%2Fred-dye-40&usg=AOvVaw228KK0vojHOlOZotmBKyuK)(artificial), MSG, heat, and soy, especially in men
 
 They have been shown to negatively affect testosterone and sperm production plus boost cancer. MSG is present in bouillon cubes(royco).
 
