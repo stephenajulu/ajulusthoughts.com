@@ -13,7 +13,6 @@ excerpt: A breakdown and listing of points found in "The Big Fat Surprise by Nin
   Teicholz"
 date: 2021-06-27T15:23:00+03:00
 hero: "/static/images/thebigfatsuprisekeyideas.png"
-draft: true
 
 ---
 ## The Big Fat Surprise Key Idea #1: Not all fats are created equal
