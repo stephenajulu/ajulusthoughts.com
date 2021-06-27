@@ -12,14 +12,13 @@ excerpt: Here are simple and easy to integrate tips that I believe will help you
   your health back and keep it
 date: 2021-06-27T13:25:00+03:00
 hero: "/static/images/healthytips.png"
-draft: true
 
 ---
 Hi there!
 
 Today I'd like to take this opportunity to share with you tips and tricks that will help you get your health back and keep it.
 
-#### **NB: I am not a doctor or a nutritionist. These are just my thoughts that I have seen others benefit from.**
+#### **NB: I am not a doctor or a nutritionist. These are just my thoughts that I have seen others benefit from and have benefitted from, myself. Take them with a grain of salt, research and adjust accordingly.**
 
 ## 1. Cut out sugar completely
 
@@ -41,7 +40,7 @@ Self-explanatory. Extremely underrated.
 
 ## 5. Fast more often and for longer periods of time
 
-Fasting isn't just limited to religious reasons. Fasting has been known to promote [autophagy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjktf2BvbfxAhWdA2MBHbTPDWAQFjAHegQIBhAD&url=https%3A%2F%2Fwww.healthline.com%2Fhealth%2Fautophagy%23%3A\~%3Atext%3DAutophagy%2520is%2520the%2520body%27s%2520way%2Cis%2520%25E2%2580%259Cself%252Deating.%25E2%2580%259D&usg=AOvVaw1f16D_Ph_bw0wUUWK1c2Vi&cshid=1624785393855347). Which is a very important process that cleans up your body. It also gives your body rest. All the constant eating and snacking is sure to affect your digestive system. 
+Fasting isn't just limited to religious reasons. Fasting has been known to promote [autophagy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjktf2BvbfxAhWdA2MBHbTPDWAQFjAHegQIBhAD&url=https%3A%2F%2Fwww.healthline.com%2Fhealth%2Fautophagy%23%3A\~%3Atext%3DAutophagy%2520is%2520the%2520body%27s%2520way%2Cis%2520%25E2%2580%259Cself%252Deating.%25E2%2580%259D&usg=AOvVaw1f16D_Ph_bw0wUUWK1c2Vi&cshid=1624785393855347). Which is a very important process that cleans up your body. It also gives your body rest. All the constant eating and snacking is sure to affect your digestive system.
 
 ## 6. Eat/drink more fermented products
 
@@ -109,6 +108,6 @@ We need to stop asking the wrong questions and instead ask ourselves why male fe
 * Avoid artificial red dye, msg, plastics, vegetable oil and soy
 * Sunbathe frequently nude
 * Sleep at least 6 hours
-* Fast frequently 
+* Fast frequently
 * Try OMAD, OAAHM, or the Carnivore diet
 * Eat more salads
