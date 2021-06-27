@@ -49,3 +49,6 @@ Don’t miss out on JadeBlack’s new product lunch coming out on the 26th of Ju
 I’d like to introduce Skillshare, a wonderful place to learn all sorts of things from financial literacy to web development and much more. I personally have been learning how to manage my money through a course by Filipa Canelas. Here’s the course’s link: [Personal Finances - Manage Your Money and Your Financial Freedom](https://www.skillshare.com/classes/Personal-Finances-%E2%80%94-Manage-your-Money-and-your-Financial-Freedom/1240823317/projects?via=search-layout-grid)
 
 To join and receive 1 free month, click here: [1 Free Premium Month Skillshare](https://skl.sh/3wxbE9O)
+
+Don't forget to pass by here:
+{{< articlepreview "/post/web-tool-of-the-week-2.md/" >}}
