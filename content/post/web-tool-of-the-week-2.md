@@ -29,7 +29,7 @@ This is sort of like an online lite version of photoshop. It's a graphic design 
 
 **Cons**
 
-1.  Limited fonts on the free version(understandable)
+1. Limited fonts on the free version(understandable)
 2. Limited customization
 3. Limited features(understandable, so buy the paid version)
 
