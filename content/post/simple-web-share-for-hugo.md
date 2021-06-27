@@ -117,7 +117,6 @@ if(!navigator.share) {
 document.getElementById("share").addEventListener("click", share);
 
 </script>
-
 ```
 
 Save it as a partial and include it e.g {{ partial "share/webshare.html" . }}
@@ -126,4 +125,4 @@ Since I already have a fall back I will not include that here as I already menti
 
 Check it out.
 
-{{< articlepreview "/post/share-buttons-for-hugo/" >}}
+{{< articlepreview "/post/share-buttons-for-hugo" >}}
