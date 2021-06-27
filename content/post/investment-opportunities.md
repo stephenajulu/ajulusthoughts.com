@@ -10,7 +10,7 @@ tags:
 title: Investment Opportunities
 excerpt: Here are ways/places you can invest in
 date: 2021-06-27T14:01:00+03:00
-hero: "/static/images/investmentopportunites.png"
+hero: "/images/investmentopportunites.png"
 
 ---
 Welcome back, everyone.
