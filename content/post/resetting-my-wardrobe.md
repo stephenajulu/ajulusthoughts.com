@@ -14,7 +14,7 @@ date: 2021-06-27T11:09:00.000+03:00
 hero: "/images/resetwardrobe.png"
 
 ---
-I recently took a good look into my wardrobe and what I realized was eye opening.
+I recently took a good look into my wardrobe and what I realized was eye-opening.
 
 Many times we keep old torn clothes and there are some clothes we rarely wear. I believe every year we need to do something I call "a wardrobe refresh", where we get rid of clothes we don't wear, the torn ones and the impractical ones and buy a new set.
 
@@ -39,7 +39,7 @@ So I recently realized, just having
 
 Is enough. You don't need a whole lot of clothes. Some in this list can be substituted and others removed completely.
 
-So now I have begun my wardrobe refresh, slowly phasing and replacing the old while adding the new as I go. And the best thing is, you can give your old clothing to charity and children's homes. I believe in charity and zero waste. I embrace minimalism, essentialism and frugal living.
+So now I have begun my wardrobe refresh, slowly phasing and replacing the old while adding the new as I go. And the best thing is, you can give your old clothing to charity and children's homes. I believe in charity and zero waste. I embrace minimalism, essentialism, and frugal living.
 
 That's it for now, please share, subscribe and comment.
 
