@@ -9,7 +9,7 @@ tags:
 - Adobe
 title: 'Web Tool of The Week #2'
 excerpt: Web App of The Week Award Goes To Adobe Spark Post
-date: 2021-06-27T10:35:00+03:00
+date: 2021-06-27T10:35:00.000+03:00
 hero: "/images/webtool2.png"
 
 ---
@@ -51,5 +51,4 @@ I’d like to introduce Skillshare, a wonderful place to learn all sorts of thin
 
 To join and receive 1 free month, click here: [1 Free Premium Month Skillshare](https://skl.sh/3wxbE9O)
 
-Don't forget to pass by:
-{{< articlepreview "/post/app-of-the-week-2.md/" >}}
+Don't forget to pass by: {{< articlepreview "/post/app-of-the-week-2.md" >}}
