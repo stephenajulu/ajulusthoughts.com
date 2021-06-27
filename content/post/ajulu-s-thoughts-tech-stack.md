@@ -11,7 +11,7 @@ tags:
 title: Ajulu's Thoughts Tech Stack
 excerpt: Here's how Ajulu's Thoughts was built
 date: 2021-06-27T16:00:00+03:00
-hero: "/static/images/ajulusthoughtswebcapture.jpeg"
+hero: "/images/ajulusthoughtswebcapture.jpeg"
 
 ---
 Hi, there!
