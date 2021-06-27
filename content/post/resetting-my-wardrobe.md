@@ -11,7 +11,7 @@ tags:
 title: Resetting My Wardrobe
 excerpt: Recently i decided to reset my wardrobe, learn more as to why.
 date: 2021-06-27T11:09:00+03:00
-hero: "/static/images/resetwardrobe.png"
+hero: "/images/resetwardrobe.png"
 
 ---
 I recently took a good look into my wardrobe and what I realized was eye opening.
