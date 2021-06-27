@@ -54,5 +54,4 @@ Now Pixlr has two apps. One is called [Pixlr X](https://pixlr.com/x/) and it’s
 
 And that's it for today, cheers🥂 ✌️and stay safe.
 
-Don't forget to pass by
-{{< articlepreview "/post/web-tool-of-the-week-2.md/" >}}
+Don't forget to pass by {{< articlepreview "/post/web-tool-of-the-week-2.md" >}}
