@@ -10,7 +10,7 @@ tags:
 title: 'Web Tool of The Week #2'
 excerpt: Web App of The Week Award Goes To Adobe Spark Post
 date: 2021-06-27T19:06:00.000+03:00
-hero: "/static/images/webtool2.png"
+hero: "/images/webtool2.png"
 
 ---
 Here's the web tool of the week #2:
