@@ -53,3 +53,6 @@ The photo below is a sample I made, I used Lunapic's transparency tool then crop
 Now Pixlr has two apps. One is called [Pixlr X](https://pixlr.com/x/) and it’s targeted at beginners and casual users (the LunaPic crowd). [Pixlr E](https://pixlr.com/e/) is intended for intermediate users and “pros.”
 
 And that's it for today, cheers🥂 ✌️and stay safe.
+
+Don't forget to pass by
+{{< articlepreview "/post/web-tool-of-the-week-2.md/" >}}
