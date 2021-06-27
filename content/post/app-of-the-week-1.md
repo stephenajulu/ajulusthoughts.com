@@ -3,7 +3,7 @@ authors:
 - Stephen Ajulu
 title: 'App of The Week #1'
 excerpt: Here's the app of the week
-date: 2021-04-10T11:30:00+00:00
+date: 2021-04-10T11:30:00.000+00:00
 hero: "/images/app-of-the-week-1.png"
 
 ---
@@ -33,4 +33,4 @@ Personally, it's my favorite wallpaper app and the artist is still releasing mor
 I recommend buying the Pro, the pro wallpapers are awesome!
 
 Don't forget to pass by
-{{< articlepreview "/post/app-of-the-week-2.md/" >}}
+{{< articlepreview "/post/app-of-the-week-2.md" >}}
