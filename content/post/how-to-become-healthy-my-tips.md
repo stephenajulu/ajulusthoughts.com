@@ -11,7 +11,7 @@ title: How to Become Healthy + My Tips
 excerpt: Here are simple and easy to integrate tips that I believe will help you get
   your health back and keep it
 date: 2021-06-27T13:25:00+03:00
-hero: "/static/images/healthytips.png"
+hero: "/images/healthytips.png"
 
 ---
 Hi there!
