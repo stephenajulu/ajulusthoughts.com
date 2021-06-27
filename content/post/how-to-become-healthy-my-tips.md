@@ -18,7 +18,7 @@ Hi there!
 
 Today I'd like to take this opportunity to share with you tips and tricks that will help you get your health back and keep it.
 
-#### **NB: I am not a doctor or a nutritionist. These are just my thoughts that I have seen others benefit from and have benefitted from, myself. Take them with a grain of salt, research and adjust accordingly.**
+#### **NB: I am not a doctor or a nutritionist. These are just my thoughts that I have seen others benefit from and have benefitted from, myself. Take them with a grain of salt, research, and adjust accordingly.**
 
 ## 1. Cut out sugar completely
 
@@ -111,3 +111,4 @@ We need to stop asking the wrong questions and instead ask ourselves why male fe
 * Fast frequently
 * Try OMAD, OAAHM, or the Carnivore diet
 * Eat more salads
+* Eat more salt
