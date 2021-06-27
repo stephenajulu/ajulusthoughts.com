@@ -5,30 +5,30 @@ tags: []
 title: 'App of The Week #2'
 excerpt: App of The Week Award Goes To Simplenote by Automattic
 date: 2021-06-27T06:40:00+03:00
-hero: ''
+hero: "/static/images/adobe_post_20210627_0658040-5932378357381964.png"
 draft: true
 
 ---
- Here's the app of the week
+Here's the app of the week
 
-## Simplenote
+## [Simplenote](https://play.google.com/store/apps/details?id=com.automattic.simplenote)
 
-This is a "minimal but gets the job done" note taking app. 
+This is a "minimal but gets the job done" note taking app.
 
-It was built by Automattic. 
+It was built by Automattic.
 
 **Pros**
 
 1. Minimal Interface
 2. Supports markdown
 3. Supports exports and backing up
-4. Is cross platform, so you can sync your notes from Android to windows or Mac 
+4. Is cross platform, so you can sync your notes from Android to windows or Mac
 
 **Cons**
 
 1. Doesn't support reminders
 
-And that's it for now, share, subscribe and comment. 
+And that's it for now, share, subscribe and comment.
 
 ### **Shameless Plug Below ↓**
 
