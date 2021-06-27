@@ -39,7 +39,7 @@ So I recently realized, just having
 
 Is enough. You don't need a whole lot of clothes. Some in this list can be substituted and others removed completely.
 
-So now I have begun my wardrobe refresh, slowly phasing and replacing the old while adding the new as I go. And the best thing is, you can give your old clothing to charity and children's homes. I believe in charity and zero waste. I embrace minimalism and frugal living.
+So now I have begun my wardrobe refresh, slowly phasing and replacing the old while adding the new as I go. And the best thing is, you can give your old clothing to charity and children's homes. I believe in charity and zero waste. I embrace minimalism, essentialism and frugal living.
 
 That's it for now, please share, subscribe and comment.
 
