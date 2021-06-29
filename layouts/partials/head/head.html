@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     {{ $prism := resources.Get "css/prism.css" }}
     <link rel="stylesheet" href="{{ $prism.RelPermalink }}" />
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:600&display=swap" rel="stylesheet"><!--merriweather default font & dm serif display previous font-->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet"><!--merriweather default font & dm serif display previous font-->
     {{ partial "head/meta.html" . }}
     {{ partial "seo/print.html" . }}
     {{ with .Params.forestry_instant_preview_id }}
