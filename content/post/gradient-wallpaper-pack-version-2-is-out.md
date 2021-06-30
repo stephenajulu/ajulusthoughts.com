@@ -10,7 +10,7 @@ tags:
 title: Gradient Wallpaper Pack Version 2 is Out
 excerpt: Gradient Wallpaper Pack Version 2 is Out. It contains 334 wallpapers.
 date: 2021-06-30T20:46:00+03:00
-hero: "/static/images/gradientwallpaperspackv2.png"
+hero: "/images/gradientwallpaperspackv2.png"
 
 ---
 Gradient Wallpaper Pack v2 For Low Res. This pack contains 61 minimal gradient wallpapers in various colors. All wallpapers are can easily be rotated for mobile phone use.
