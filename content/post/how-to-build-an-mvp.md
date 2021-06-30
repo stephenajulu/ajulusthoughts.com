@@ -82,3 +82,5 @@ Once the MVP is out to the public, and your are receiving good reviews, it's tim
 Now, build it into a real company/product/service and work hard to maintain, advance and market it.
 
 I'll share my custom signature logo mvp progress
+
+[Learn More About MVPs| Digitalya](https://digitalya.co/blog/5-awesome-minimum-viable-product-examples/)
