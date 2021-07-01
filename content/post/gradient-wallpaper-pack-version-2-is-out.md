@@ -18,3 +18,7 @@ Gradient Wallpaper Pack v2 For Low Res. This pack contains 61 minimal gradient w
 
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed"><a href="https://gumroad.com/l/OFKKu">Loading...</a></div>
+
+Check out version 1
+
+{{< articlepreview "/post/gradient-wallpaper-pack-version-1-is-out" >}}
