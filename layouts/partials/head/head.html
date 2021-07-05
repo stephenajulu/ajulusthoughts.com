@@ -7,8 +7,10 @@
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     {{ $prism := resources.Get "css/prism.css" }}
     <link rel="stylesheet" href="{{ $prism.RelPermalink }}" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <style>
- @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Playfair+Display&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display&display=swap');
 </style> 
     <!--<link href="https://fonts.googleapis.com/css?family=Playfair+Display:600&display=swap" rel="stylesheet">--><!--merriweather default font & dm serif display previous font-->
     {{ partial "head/meta.html" . }}
