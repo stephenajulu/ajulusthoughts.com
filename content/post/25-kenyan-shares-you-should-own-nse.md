@@ -32,14 +32,17 @@ hero: "/images/ishant-mishra-uxejdx4sqde-unsplash.jpg"
 ## **Commercial and Services Sector**
 
 1. Nation Media Group Plc
-2. WPP Scangroup PlcConstruction and Allied Sector
+2. WPP Scangroup Plc
 
 ## **Construction and Allied Sector**
 
-1. Bamburi Cement Ltd Energy and Petroleum Sector
-2. KenGen Co. Plc
-3. Total Kenya Ltd
-4. Kenya Power & Lighting Co Ltd 
+1. Bamburi Cement Ltd
+
+## **Energy and Petroleum Sector**
+
+1. KenGen Co. Plc
+2. Total Kenya Ltd
+3. Kenya Power & Lighting Co Ltd 
 
 ## **Insurance Sector**
 
