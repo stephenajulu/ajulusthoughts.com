@@ -13,7 +13,7 @@ title: Simple Search Engine Optimization(SEO) Guide
 excerpt: The simple guide to search engine optimization and getting your page seen
   by people
 date: 2021-08-01T17:45:00+03:00
-hero: "/static/images/stephen-phillips-hostreviews-co-uk-shr_xn8s8qu-unsplash.jpg"
+hero: "/images/stephen-phillips-hostreviews-co-uk-shr_xn8s8qu-unsplash.jpg"
 
 ---
 Here's a simple search engine optimization guide
