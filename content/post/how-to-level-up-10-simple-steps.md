@@ -12,7 +12,7 @@ tags:
 title: 'How To Level Up: 10 Simple Steps'
 excerpt: Here's how you can level up in life with 10 steps
 date: 2021-08-01T18:36:00+03:00
-hero: "/static/images/kelvin-zhang-2zok5j-13ma-unsplash.jpg"
+hero: "/images/kelvin-zhang-2zok5j-13ma-unsplash.jpg"
 
 ---
 ## 1. Read 10 pages a day
