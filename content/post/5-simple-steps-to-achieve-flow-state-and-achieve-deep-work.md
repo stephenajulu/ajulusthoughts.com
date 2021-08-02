@@ -95,3 +95,5 @@ And they are giving you **10% off all their products**. Better hurry, their prod
 * [**Santa Lucia Fragrance 3 Perfume Kit**](https://santaluciafragrance.com/collections/all-fragrances/products/set-of-3?ref=kuzqn53jomp-)
 
 Check out their other products and learn more about the science that went into the designing of their scent: [Santa Lucia Fragrance](https://santaluciafragrance.com/?ref=kuzqn53jomp-)
+
+[**Science of Their Scent**](https://santaluciafragrance.com/pages/science-of-scent)
