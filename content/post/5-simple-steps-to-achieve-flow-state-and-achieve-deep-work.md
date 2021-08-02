@@ -12,7 +12,7 @@ tags:
 title: 5 Simple Steps To Achieve Flow State and achieve Deep Work
 excerpt: Here's how i achieve flow state and do deep work/study, and how you can too
 date: 2021-08-02T12:51:00+03:00
-hero: "/static/images/flow-state-diagram.jpg"
+hero: "/images/flow-state-diagram.jpg"
 
 ---
 Here's how I achieve flow state and do deep work/study and how you can too.
