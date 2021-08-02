@@ -13,7 +13,6 @@ title: On Becoming a High Value Woman
 excerpt: Here's how you or any woman can level up and become a high value woman
 date: 2021-08-02T16:04:00+03:00
 hero: "/static/images/averie-woodard-4nulm-juyfo-unsplash.jpg"
-draft: true
 
 ---
 Here's how you or any woman can level up and become a high-value woman
