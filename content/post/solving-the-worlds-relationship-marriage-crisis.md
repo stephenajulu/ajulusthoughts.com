@@ -9,11 +9,11 @@ tags:
 - Relationships
 - Life
 - Marriage
-title: Solving The Worlds Relationship/Marriage Crisis
+title: Solving The Worlds Relationship & Marriage Crisis
 excerpt: Here's a solution to all the issues mankind is facing in relationships +
   tips for a successful relationship and marriage
 date: 2021-08-02T12:08:00+03:00
-hero: "/static/images/djim-loic-hl4mrleyqxu-unsplash.jpg"
+hero: "/images/djim-loic-hl4mrleyqxu-unsplash.jpg"
 
 ---
 Here's a solution to all the issues mankind is facing in relationships + tips for a successful relationship and marriage.
