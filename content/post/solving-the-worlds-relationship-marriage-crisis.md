@@ -35,6 +35,7 @@ Guys, women want the following:
 11. Commitment(Kill Oneitis though)
 12. Integrity
 13. A balance of a Miser and Spendthrift
+14. Age(Older is better)
 
 ## Women
 
