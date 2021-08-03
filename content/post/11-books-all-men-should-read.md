@@ -13,7 +13,7 @@ title: 11 Books All Men Should Read
 excerpt: Here are the 11 books I recommend to all men that will change your life and
   help you level up
 date: 2021-08-03T11:39:00+03:00
-hero: "/static/images/daria-nepriakhina-xy55bl5mzam-unsplash.jpg"
+hero: "/images/daria-nepriakhina-xy55bl5mzam-unsplash.jpg"
 
 ---
 Here are the 11 books I recommend to all men that will change your life and help you level up. 
