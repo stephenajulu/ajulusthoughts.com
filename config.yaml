@@ -1,4 +1,4 @@
-baseURL: "ajulusthoughts.stephenajulu.com"
+baseURL: "https://ajulusthoughts.stephenajulu.com"
 languageCode: "en-us"
 title: "Ajulu's Thoughts"
 pygmentsstyle: 'monokai'
