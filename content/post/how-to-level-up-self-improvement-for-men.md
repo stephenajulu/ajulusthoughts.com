@@ -58,7 +58,7 @@ So write down your purpose/passion then write down what is necessary to achieve 
 
 Now if you have a purpose, visualize yourself accomplished. Think about how great it would feel and what you would have if this purpose is realized. Use your mind's eye and creativity. It might be helpful to build a visualization board that contains photo snippets of how you want to look, what you want to own, and how you want to feel. Use Canva, Spark Post, Photoshop, or even Microsoft Word to build it then print it and stick it somewhere within your field of vision where you can look at it almost all the time before and after sleeping.
 
-#### QUICK TIP: DON'T LET YOUR GOAL BE MONEY. INSTEAD, FIND SOMETHING THAT CAN PROVIDE VALUE TO OTHERS AT THE SAME TIME BRINGING YOU MONEY AND SATISFACTION.
+> QUICK TIP: DON'T LET YOUR GOAL BE MONEY. INSTEAD, FIND SOMETHING THAT CAN PROVIDE VALUE TO OTHERS AT THE SAME TIME BRINGING YOU MONEY AND SATISFACTION.
 
 Money chasers die without actualizing their dream. Greed will kill you.
 
