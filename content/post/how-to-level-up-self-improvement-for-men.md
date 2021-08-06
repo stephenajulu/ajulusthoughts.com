@@ -24,11 +24,11 @@ First I'd like to begin with a quote from Hafeez from The Roommates.
 >
 > Every man should be in a perpetual state of leveling up/self improvement until he takes his last breath
 
-A month ago I was stuck, stuck in life, my finances weren't improving, my health was declining, I hated myself and I started to hate the world and even God. I spent most of my days constantly complaining, hating myself, and watching anime. But recently I decided to change, I did my research and began taking steps to actively solve my problems. Here's how you can do the same.
+A month ago I was stuck, stuck in life, my finances weren't improving, my health was declining, I hated myself and I started to hate the world and even God. I spent most of my days constantly complaining, hating myself, and watching anime. But recently I decided to change, I did my research and began taking steps to **actively solve my problems**. Here's how you can do the same.
 
 ### 1. Wake up early
 
-Waking up early gives you the time to improve yourself. It gives you time to recover the lost time you spent being average/mediocre. Set a time you feel comfortable, don't go cold turkey on this otherwise, you will fail. If you wake up at 9, start waking up at 8:30 am if you wake up at 7, start at 6:30 am, and so on. I was brought up in an African home so I used to wake up at 7 every day from as far as I can remember and on school days I would wake up at 5 am, so I had to shift to waking up at 6:30. Once you can wake up automatically at this time, or you are comfortable deduct another 30 mins do that until you can wake up at 5 or 5:30 am. Now don't stay in bed. The moment the alarm sounds, count to 5 and wake up whether you like it or not. Implement the 5 count rule, where if you don't want to do something that you know is beneficial count to 5 then do it.
+Waking up early gives you the time to improve yourself. It gives you time to recover the lost time you spent being average/mediocre. Set a time you feel comfortable, don't go cold turkey on this otherwise, you will fail. If you wake up at 9, start waking up at 8:30 am if you wake up at 7, start at 6:30 am, and so on. I was brought up in an African home so I used to wake up at 7 every day from as far as I can remember and on school days I would wake up at 5 am, so I had to shift to waking up at 6:30, now I can wake up at 4:40. Once you can wake up automatically at this time, or you are comfortable deduct another 30 mins do that until you can wake up at 5 or 5:30 am. Now don't stay in bed. The moment the alarm sounds, count to 5 and wake up whether you like it or not. Implement the 5 count rule, where if you don't want to do something that you know is beneficial count to 5 then do it.
 
 ### 2. Benediction/Meditation
 
@@ -38,7 +38,7 @@ I'd suggest you pray if you are a Christian(like me), Muslim, Hindu, and all oth
 
 Try something simple for 1 month like Pushups(even inclined if you can't do the regular version), squats, and leg raises with your stomach in.
 
-I'd suggest you do this in 10 increments. Start with 10 on the first day, then 20 on the 2nd then 30, and so on. Keep raising it until you ABSOLUTELY can not finish the workout, don't be afraid to rest in between reps as long as the rest doesn't exceed 3 minutes. If you've reached your limit where you can no longer do more reps each day. Go back to 10. I started this on 1st, am at 60 reps. Feel free to do more if you'd like but make sure you do these 3 every single day, no rest days. Once you are on your 10th day, add calve raises, crunches, and dips. On your 20th incorporate 3 new exercises that hit the group of muscles that squats, pushups, and leg raises hit. On the 30th day add 3 new exercises + bridges.
+I'd suggest you do this in 10 increments. Start with 10 on the first day, then 20 on the 2nd then 30, and so on. Keep raising it until you ABSOLUTELY can not finish the workout, don't be afraid to rest in between reps as long as the rest doesn't exceed 3 minutes. If you've reached your limit where you can no longer do more reps each day. Go back to 10. I started this on 1st, am at 60 reps. Feel free to do more if you'd like but make sure you do these 3 every single day, no rest days. Once you are on your 10th day, add calve raises, crunches, and dips. On your 20th incorporate 3 new exercises that hit the group of muscles that squats, pushups, and leg raises hit. On the 30th day add 3 new exercises + bridges. I now do push-ups(chest and arms), leg raises(abs), squats(legs), bridges(but), calve raises(calves), and dips(triceps). Once you reach 50 add planks(50 seconds). 100? you can take a day off every week. Hit 500? take 3 days break. Hit 600? start all over with more complex workouts.
 
 I'm no physical fitness expert. These exercises are meant to be simple that you can perform every single day without a gym.
 
@@ -52,11 +52,11 @@ You can even try audiobooks and summaries. There's a guy on YouTube who makes gr
 
 ### 5. Define your purpose/passion and visualize
 
-All men require a passion or purpose. If you have none, create one out of the things you like and love. Mine is building meaningful products that each tackle a problem in the world. I sort of lost this during the depression I was in but I redefined it.
+All men require a passion or purpose. If you have none, create one out of the things you like and love. Mine is building meaningful products that each tackle a problem in the world. I lost this during the depression I was in but I redefined it.
 
 So write down your purpose/passion then write down what is necessary to achieve it. Dream big bro. Don't limit yourself. Once you have the requirements necessary to reach it, phrase them in 3 months time, 6 months time, a years time, 5 years time, 10 years time, and 30 years time. Here is where you need to be realistic. You can't be a millionaire in 3 months unless you have a millionaire backing you. Work tirelessly to meet these goals.
 
-Now if you have a purpose, visualize yourself accomplished. Think about how great it would feel and what you would have if this purpose is realized. Use your mind's eye and creativity.
+Now if you have a purpose, visualize yourself accomplished. Think about how great it would feel and what you would have if this purpose is realized. Use your mind's eye and creativity. It might be helpful to build a visualization board that contains photo snippets of how you want to look, what you want to own, and how you want to feel. Use Canva, Spark Post, Photoshop, or even Microsoft Word to build it then print it and stick it somewhere within your field of vision where you can look at it almost all the time before and after sleeping.
 
 #### QUICK TIP: DON'T LET YOUR GOAL BE MONEY. INSTEAD, FIND SOMETHING THAT CAN PROVIDE VALUE TO OTHERS AT THE SAME TIME BRINGING YOU MONEY AND SATISFACTION.
 
@@ -86,29 +86,29 @@ As my teacher: Amerix always says:
 
 > If it is packed in a box, is fortified, is promoted by marketers, if marketers tell you "it is healthy", if your great grandfather doesn't recognize it. DON'T EAT IT!
 
-I would suggest you go for **Low/NO Sugar, No Soy, Moderate Sodium, High Fat, Low Carbs, More Veggies, More Meat, More Water, and Less Frequency**
+I would suggest you go for **Low/NO Sugar, No Soy, Moderate Sodium, High Fat, Low Carbs, More Veggies, More Meat, More Water, More Fiber, and Less Frequently**
 
-Sugar is very bad and harmful to your health, phase it out.
+Sugar is very bad and harmful to your health. **Phase it out.**
 
-Soy kills sperms, reduces testosterone, and creates estrogen.
+Soy kills sperms, reduces testosterone, and creates estrogen. **Go cold turkey.**
 
 Sodium is an electrolyte, use it moderately but don't remove it completely.
 
-Fat is very good for you, it doesn't make you fat and it is used to build testosterone the primary male hormone responsible for spermatogenesis(production of sperm), muscle mass, health, and well-being. Skip "vegetable oils/butter/fat", they are unhealthy and harmful. Go for butter, lard, coconut, or olive oil.
+Fat is very good for you, it doesn't make you fat and it is used to build testosterone the primary male hormone responsible for spermatogenesis(production of sperm), muscle mass, health, and well-being. Skip "vegetable oils/butter/fat", they are unhealthy and harmful. Go for butter, lard, coconut, or olive oil. **Add it!**
 
-Eat fewer carbs and only eat unrefined that's fibrous e.g. beans, pumpkins, veggies. Minimize starchy unrefined carbs like sweet potatoes and arrowroots. Remove all refined carbs like maize/wheat flour, soda, fruit juices, sugar.
+Eat fewer carbs and only eat unrefined that's fibrous e.g. beans, pumpkins, veggies. Minimize starchy unrefined carbs like sweet potatoes and arrowroots. Remove all refined carbs like maize/wheat flour, soda, fruit juices, sugar. **Reduce it.**
 
-Vegetables are healthy and good for you. This is a no-brainer.
+Vegetables are healthy and good for you. This is a no-brainer. **Increase it.**
 
-Meat is absolutely important. Go for "natural" meat or otherwise know as grass-fed meat. Skip sausages and anything you can't make yourself with natural ingredients.
+Meat is absolutely important. Go for "natural" meat or otherwise know as grass-fed meat. Skip sausages and anything you can't make yourself with natural ingredients(avoid soy sauce). **Increase it.**
 
-Water is a no-brainer. Drink lots but modulate, there's such a thing as water toxicity/intoxication and hyponatremia(low electrolytes due to "flashing" caused by a water and electrolyte imbalance. If you experience nausea, vomiting, cramps, and fatigue after drinking a lot of water lick some salt.)
+Water is a no-brainer. Drink lots but modulate, there's such a thing as water toxicity/intoxication and hyponatremia(low electrolytes due to "flashing" caused by a water and electrolyte imbalance. If you experience nausea, vomiting, cramps, and fatigue after drinking a lot of water lick some salt.) Remember the body knows how much water it needs. Drink two glasses of water in the morning right after waking up. **Modulate it.**
 
-Eat less frequently. Science has found correlations between long life spans and low frequency of eating. I suggest eating once a day, one and a half times a day or employing Intermittent Fasting. On Wednesdays eat supper early at 6 pm then skip meals till Friday at 7 pm, this is called Autophagy. Research!
+Eat less frequently. Science has found correlations between long life spans and low frequency of eating. I suggest eating once a day, one and a half times a day or employing Intermittent Fasting. On Wednesdays eat supper early at 6 pm then skip meals till Friday at 7 pm, this is called Autophagy. Research! **Reduce Frequency but Eat More.**
 
 ### 8. Write
 
-Writing has serious mental health benefits even if it's not journaling + if you keep a blog like this, it can eventually grow to become a passive income source. Start by writing things you are grateful for then move to a journal then try blogging or you could do the process in reverse. Need a blog? Contact me and I'll build one for you in less than a day. Contact me: [alunje73@gmail.com](mailto:alunje73@gmail.com) to get a blog at very affordable prices, if you would like it with a custom domain name you may have to pay slightly more but you can always start with something like "aramsblog.netlify.app".
+Writing has serious mental health benefits even if it's not journaling + if you keep a blog like this, it can eventually grow to become a passive income source. Start by writing things you are grateful for then move to a journal then try blogging or you could do the process in reverse. **Need a blog? Contact me** and I'll build one for you in less than a day. Contact me: [alunje73@gmail.com](mailto:alunje73@gmail.com) to get a blog at very affordable prices, if you would like it with a custom domain name you may have to pay slightly more but you can always start with something like "aramsblog.netlify.app".
 
 ### 9. Get a job or build a business
 
@@ -130,11 +130,15 @@ Look, you can't be a 10 without putting more work into how you look. Go to Pinte
 
 ### 13. Be more assertive
 
-You gotta stand up for yourself man! I suggest you use the No, Yes rule where you first say no, then think about it then say Yes. I recently got myself into some huge mess that had me paying some money every single month, I didn't want to but because I wanted to be respectful and "nice" I agreed, now I regret doing it don't be like me. Say no then yes. Don't be a "nice" guy. In fact let me give you a secret, have you ever wondered why women go after bad boys? It's because they are assertive, they don't take or make excuses, she failed to show up to your date? Time her out and find other women. She did something wrong to you? Withdraw your attention from her and give it to other women who value it. Kill oneitis bro. Be assertive. You are the prize. Value yourself. If she cheats, forgive her and move on, don't accept back a hoe, she will walk all over you and cheat again. Value yourself. Value your time. There's plenty of fish in the sea. Don't waste your time. Don't be a nice guy, if she does something that upsets you, tell her, don't shout just tell her. Bro, you deserve much better. Listen to this fact: If she is withholding sex when you want it, dump her and move on(unless there's a valid reason) because women who love and want you will want to have sex with you. So stand up for yourself and be assertive.
+You gotta **stand up for yourself** man! I suggest you use the **No, Yes rule** where you first say no, then think about it then say Yes. I recently got myself into some huge mess that had me paying some money every single month, I didn't want to but because I wanted to be respectful and "nice" I agreed, now I regret doing it don't be like me. Say no then yes. Don't be a "nice" guy. In fact let me give you a secret, have you ever wondered why women go after bad boys? It's because they are assertive, they don't take or make excuses, she failed to show up to your date? Time her out and find other women. She did something wrong to you? Withdraw your attention from her and give it to other women who value it. Kill oneitis bro. Be assertive. You are the prize. **Value yourself**. If she cheats, forgive her and move on, don't accept back a hoe, she will walk all over you and cheat again. Value yourself. **Value your time**. There's plenty of fish in the sea. Don't waste your time. Don't be a nice guy, if she does something that upsets you, tell her, don't shout just tell her. Bro, you deserve much better. Listen to this fact: If she is withholding sex when you want it, dump her and move on(unless there's a valid reason) because women who love and want you will want to have sex with you. So stand up for yourself and be assertive.
 
 ### 14. Invest in yourself
 
-Guys, think long-term. Start investing in stocks, money market funds, cryptocurrencies, index funds, ETFs, bills, bonds, and yourself. Remember women want men with resources. But don't do this for them, do it for you.
+Guys, think long-term. Start investing in stocks, money market funds, cryptocurrencies, index funds, ETFs, bills, bonds, and yourself. Create an emergency fund capable of taking you 12 months when you have no job or income. Remember women want men with resources. But don't do this for them, do it for you. Guys, I've posted several articles on investing. Go read them.
+
+> The man who can not learn get's left behind.
+
+Don't wait to be spoon-fed. Actively research things that will help you.
 
 ### 15. Red pill yourself
 
@@ -150,13 +154,25 @@ No-brainer no 2. Grow and focus on yourself and your family. To quote the famous
 
 > These hoes ain't loyal.
 
-Bros, be careful some women only want your money and good genes, others have been found impregnating themselves with semen in a condom. Flush those things down after use. As I keep repeating focus on yourself and your family. These hoes ain't loyal. A woman will never love you the way you want to be loved. There are good women out there but remember women are governed by their emotions, one day she's fine and the next she's killing you slowly with poison just to get her hands on your hard-earned money. Focus bro!
+Bros, be careful some women only want your money and good genes, others have been found impregnating themselves with semen in a condom. Flush those things down after use. 
+
+> It won't kill you to stay single and celibate
+
+As I keep repeating focus on yourself and your family. These hoes ain't loyal. A woman will never love you the way you want to be loved. There are good women out there but remember women are governed by their emotions, one day she's fine and the next she's killing you slowly with poison just to get her hands on your hard-earned money. Focus bro!
 
 Read the books recommended in step one. Take a look at my other articles. Women want an assertive, dominant, resourceful, alpha male who can lead and provide but can still hunker down and settle/commit. Don't be in a hurry to marry. Survey the market, don't lower your standards for anyone.
 
-##### REMEMBER: YOU ARE LIKE FINE WINE, THE OLDER YOU GET THE BETTER YOU TASTE, BUT SHE'S LIKE FRUIT JUICE, OVER TIME SHE LOSES HER TASTE.
+> REMEMBER: YOU ARE LIKE FINE WINE, THE OLDER YOU GET THE BETTER YOU TASTE, BUT SHE'S LIKE FRUIT JUICE, OVER TIME SHE LOSES HER TASTE.
 
-In conclusion: Girls become women once they are able to bear children, boys become men once they are "initiated" or once we met certain requirements.
+In conclusion: Girls become women once they are able to bear children, boys become men once they are "initiated" or once they met certain requirements.
+
+### Bonus: 18. Gain the abundance mindset
+
+Gain the abundance mindset whether it is in dating, money, and more.
+
+Did she break up with you? There's plenty of fish in the sea. Did she cheat? Read answer 1. Did you miss a job? Keep looking, that wasn't for you. 
+
+Remember there's enough of everything to go around. Don't settle on one thing or one missed opportunity. Bounce back.
 
 For those in this journey with me: Greatness is Coming! Look Forward. Shoulders Back and Chest Puffed Up!
 
@@ -164,7 +180,7 @@ Have a great day men in the making!
 
 Women, no offense but all that is written here is scientifically proven. Still, feel free to write your thoughts down below.
 
-Next time I'll list some of the YouTube channels, Twitter, and Instagram accounts all men should follow/subscribe to.
+Next time I'll list some of the RedPill and Masculinity YouTube channels, Twitter, and Instagram accounts all men should follow/subscribe to.
 
 And that's it, bros. See you next time. Got plenty of articles you can read. Go check them out.
 
