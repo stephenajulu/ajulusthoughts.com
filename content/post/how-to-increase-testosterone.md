@@ -13,7 +13,7 @@ title: How to Increase Testosterone
 excerpt: Can you believe that our fathers and grand fathers had 5 times the testosterone
   we have. Here's how to increase it.
 date: 2021-08-06T17:45:00+03:00
-hero: "/images/abby-savage-9urds43o8c-unsplash.jpg"
+hero: "/static/images/abby-savage-9urds43o8c-unsplash.jpg"
 
 ---
 Can you believe that our fathers and grandfathers had 10 times the testosterone we have today? Today I'll show you how to increase it.
@@ -34,7 +34,7 @@ According to Wikipedia, It is
 
 ### 1. Sunbathe your balls
 
-It comes as no surprise that Vitamin D is crucial to testosterone production. Sunbathing your 2 little ones really helps to boost testosterone production. Now you don't want to go to the extreme as heat kills sperm production. Aim for the morning sun when it isn't hot. 
+It comes as no surprise that Vitamin D is crucial to testosterone production. Sunbathing your 2 little ones really helps to boost testosterone production. Now you don't want to go to the extreme as heat kills sperm production. Aim for the morning sun when it isn't hot.
 
 ### 2. Cold showers
 
@@ -58,7 +58,7 @@ Testosterone is made up of cholesterol, now contrary to popular belief, there's 
 
 Also, remember, unlike popular belief, your brain is actually 80% fat.
 
-To learn more about fat I recommend you check a previous post where I summarized "The Big FAT Suprise by Nina Techolz". 
+To learn more about fat I recommend you check a previous post where I summarized "The Big FAT Suprise by Nina Techolz".
 
 {{< articlepreview "/post/key-ideas-in-the-big-fat-surprise-by-nina-teicholz" >}}
 
@@ -72,7 +72,7 @@ Science has found out that fasting increases the human growth hormone which in t
 
 Posture has been shown to increase testosterone by almost 17%. So now I want you to square your shoulders, lift up your chest, raise your chin, occupy space, own the space and strike a power pose.
 
-### 9. Eat more cruciferous vegetables 
+### 9. Eat more cruciferous vegetables
 
 E.g Broccoli and Cauliflower reduce estrogen
 
@@ -120,7 +120,7 @@ Get your blood pumping hard at least once a day
 
 It kills sperm and reduces testosterone. Avoid.
 
-And those are 20 ways to increase testosterone & sperm production guys. 
+And those are 20 ways to increase testosterone & sperm production guys.
 
 See you next time.
 
