@@ -20,7 +20,7 @@ Hi guys, here's exactly what you need to do to level up as a man physically, emo
 
 First I'd like to begin with a quote from Hafeez from The Roommates.
 
-> The goal of every man should be to constantly improve himself physically, emotionally, spiritually and financially. 
+> The goal of every man should be to constantly improve himself physically, emotionally, spiritually and financially.
 >
 > Every man should be in a perpetual state of leveling up/self improvement until he takes his last breath
 
@@ -44,7 +44,7 @@ I'm no physical fitness expert. These exercises are meant to be simple that you 
 
 ### 4. Read
 
-I suggest reading 10 pages a day. Start with self-help books. I recommended some in a previous post. 
+I suggest reading 10 pages a day. Start with self-help books. I recommended some in a previous post.
 
 {{< articlepreview "/post/11-books-all-men-should-read" >}}
 
@@ -60,7 +60,7 @@ Now if you have a purpose, visualize yourself accomplished. Think about how grea
 
 #### QUICK TIP: DON'T LET YOUR GOAL BE MONEY. INSTEAD, FIND SOMETHING THAT CAN PROVIDE VALUE TO OTHERS AT THE SAME TIME BRINGING YOU MONEY AND SATISFACTION.
 
-Money chasers die without actualizing their dream. Greed will kill you. 
+Money chasers die without actualizing their dream. Greed will kill you.
 
 P.S: I'm not saying that you shouldn't chase money, just don't let it be all you chase.
 
@@ -88,11 +88,11 @@ As my teacher: Amerix always says:
 
 I would suggest you go for **Low/NO Sugar, No Soy, Moderate Sodium, High Fat, Low Carbs, More Veggies, More Meat, More Water, and Less Frequency**
 
-Sugar is very bad and harmful to your health, phase it out. 
+Sugar is very bad and harmful to your health, phase it out.
 
 Soy kills sperms, reduces testosterone, and creates estrogen.
 
-Sodium is an electrolyte, use it moderately but don't remove it completely. 
+Sodium is an electrolyte, use it moderately but don't remove it completely.
 
 Fat is very good for you, it doesn't make you fat and it is used to build testosterone the primary male hormone responsible for spermatogenesis(production of sperm), muscle mass, health, and well-being. Skip "vegetable oils/butter/fat", they are unhealthy and harmful. Go for butter, lard, coconut, or olive oil.
 
@@ -118,7 +118,7 @@ Whatever comes first!
 
 ### 10. Find good friends
 
-I have never been good at making friends,I first had social anxiety before becoming introverted. I don't necessarily like being an introvert but I don't hate it either, the best way I'd describe it is a "tussle" between love and hate. But I am blessed to have friends with equally crazy dreams and we push each other forward. Find a good group of friends specifically male friends who will push you as you push them, who will be there for you when the challenges of life exceed your strength. Find trustworthy ones. Test them. For example, one day scare them with the "Hi, kindly help me, I'm in jail and I need bail" text. Some will genuinely not have enough money to support you others will support you, many will lie or laugh at you. Trust your gut.
+I have never been good at making friends, I first had social anxiety before becoming introverted. I don't necessarily like being an introvert but I don't hate it either, the best way I'd describe it is a "tussle" between love and hate. But I am blessed to have friends with equally crazy dreams and we push each other forward. Find a good group of friends specifically male friends who will push you as you push them, who will be there for you when the challenges of life exceed your strength. Find trustworthy ones. Test them. For example, one day scare them with the "Hi, kindly help me, I'm in jail and I need bail" text. Some will genuinely not have enough money to support you others will support you, many will lie or laugh at you. Trust your gut.
 
 ### 11. Trust your instinct/gut
 
@@ -126,11 +126,11 @@ Look many times your gut will tell you that your girl is cheating or something a
 
 ### 12. Dress and groom yourself
 
-Look, you can't be a 10 without putting more work into how you look. Go to Pinterest, check up on some men's styles, and pick one of your preferences. Stick to it, if you get bored, go back to Pinterest, choose another. Guys level up your wardrobe. Remove graphic tees in favor of plain ones. If you are above 25 starts including some suits, cardigans, and more adult "stuff" while still keeping youthful clothing. When you approach 30 start phasing those out slowly. I'd suggest you start with essentials, speaking of essentials, try out my sponsor ESNTLS, I have a 10% Off deal with them go pick up a few stuff there and integrate it into your wardrobe. Here's a link with the 10% discount already applied: [ESNTLS](https://www.esntls.co/?ref=kuzqn53jomp-), pick up some shades/glasses too: [JadeBlack](https://www.jadeblack.co/?ref=kuzqn53jomp-) same 10% off deal. Would you like to smell good too? Try [Santa Lucia Fragrance](https://santaluciafragrance.com/?ref=kuzqn53jomp-), same 10% off.
+Look, you can't be a 10 without putting more work into how you look. Go to Pinterest, check up on some men's styles, and pick one of your preferences. Stick to it, if you get bored, go back to Pinterest, choose another. Guys level up your wardrobe. Remove graphic tees in favor of plain ones. If you are above 25 starts including some suits, cardigans, and more adult "stuff" while still keeping youthful clothing. When you approach 30 start phasing those out slowly. I'd suggest you start with essentials, speaking of essentials, try out my sponsor ESNTLS, I have a 10% Off deal with them go pick up a few stuff there and integrate it into your wardrobe. Here's a link with the 10% discount already applied: [ESNTLS](https://www.esntls.co/?ref=kuzqn53jomp-), pick up some shades/glasses too: [JadeBlack](https://www.jadeblack.co/?ref=kuzqn53jomp-) same 10% off deal. Would you like to smell good too? Try [Santa Lucia Fragrance](https://santaluciafragrance.com/?ref=kuzqn53jomp-), same 10% off. Remember using skin products is not effeminate. But keep them to a minimal ( Hint: if you have more skincare products than your girlfriend, tone it down)
 
 ### 13. Be more assertive
 
-You gotta stand up for yourself man! I suggest you use the No, Yes rule where you first say no, then think about it then say Yes. I recently got myself into some huge mess that had me paying some money every single month, I didn't want to but because I wanted to be respectful and "nice" I agreed, now I regret doing it don't be like me. Say no then yes. Don't be a "nice" guy. In fact let me give you a secret, have you ever wondered why women go after bad boys? It's because they are assertive, they don't take excuses, she failed to show up to your date? Time her out and find other women. She did something wrong to you? Withdraw your attention from her and give it to other women who value it. Kill oneitis bro. Be assertive. You are the prize. Value yourself. If she cheats, forgive her and move on, don't accept back a hoe, she will walk all over you and cheat again. Value yourself. Value your time. There's plenty of fish in the sea. Don't waste your time. Don't be a nice guy, if she does something that upsets you, tell her, don't shout just tell her. Bro, you deserve much better. Listen to this fact: If she is withholding sex when you want it, dump her and move on(unless there's a valid reason) because women who love and want you will want to have sex with you. So stand up for yourself and be assertive.
+You gotta stand up for yourself man! I suggest you use the No, Yes rule where you first say no, then think about it then say Yes. I recently got myself into some huge mess that had me paying some money every single month, I didn't want to but because I wanted to be respectful and "nice" I agreed, now I regret doing it don't be like me. Say no then yes. Don't be a "nice" guy. In fact let me give you a secret, have you ever wondered why women go after bad boys? It's because they are assertive, they don't take or make excuses, she failed to show up to your date? Time her out and find other women. She did something wrong to you? Withdraw your attention from her and give it to other women who value it. Kill oneitis bro. Be assertive. You are the prize. Value yourself. If she cheats, forgive her and move on, don't accept back a hoe, she will walk all over you and cheat again. Value yourself. Value your time. There's plenty of fish in the sea. Don't waste your time. Don't be a nice guy, if she does something that upsets you, tell her, don't shout just tell her. Bro, you deserve much better. Listen to this fact: If she is withholding sex when you want it, dump her and move on(unless there's a valid reason) because women who love and want you will want to have sex with you. So stand up for yourself and be assertive.
 
 ### 14. Invest in yourself
 
@@ -140,15 +140,19 @@ Guys, think long-term. Start investing in stocks, money market funds, cryptocurr
 
 No-brainer. Subscribe to Youtube Red Pillers, Follow on Twitter, Facebook, and Instagram. Learn and Grow.
 
-### 16. Amass Knowledge, Skills, Money, and Intelligence
+### 16. Shower? Cold
+
+The benefits are written all over the internet, research.
+
+### 17. Amass Knowledge, Skills, Money, and Intelligence
 
 No-brainer no 2. Grow and focus on yourself and your family. To quote the famous Chris Brown quote
 
 > These hoes ain't loyal.
 
-Bros, be careful some women only want your money and good genes, others have been found impregnating themselves with semen in a condom. Flush those things down after use. As I keep repeating focus on yourself and your family. These hoes ain't loyal. A woman will never love you the way you want to be loved. There are good women out there but remember women are governed by their emotions, one day she's fine and the next she's killing you slowly with poison just to get her hands on your hard-earned money. Focus bro! 
+Bros, be careful some women only want your money and good genes, others have been found impregnating themselves with semen in a condom. Flush those things down after use. As I keep repeating focus on yourself and your family. These hoes ain't loyal. A woman will never love you the way you want to be loved. There are good women out there but remember women are governed by their emotions, one day she's fine and the next she's killing you slowly with poison just to get her hands on your hard-earned money. Focus bro!
 
-Read the books recommended in step one. Take a look at my other articles. Women want an assertive, dominant, resourceful, alpha male who can lead and provide but can still hunker down and settle/commit. Don't be in a hurry to marry. Survey the market, don't lower your standards for anyone. 
+Read the books recommended in step one. Take a look at my other articles. Women want an assertive, dominant, resourceful, alpha male who can lead and provide but can still hunker down and settle/commit. Don't be in a hurry to marry. Survey the market, don't lower your standards for anyone.
 
 ##### REMEMBER: YOU ARE LIKE FINE WINE, THE OLDER YOU GET THE BETTER YOU TASTE, BUT SHE'S LIKE FRUIT JUICE, OVER TIME SHE LOSES HER TASTE.
 
@@ -158,6 +162,10 @@ For those in this journey with me: Greatness is Coming! Look Forward. Shoulders 
 
 Have a great day men in the making!
 
-Women, no offense but all that is written here is scientifically proven. Still feel free to write your thoughts down below.
+Women, no offense but all that is written here is scientifically proven. Still, feel free to write your thoughts down below.
+
+Next time I'll list some of the YouTube channels, Twitter, and Instagram accounts all men should follow/subscribe to.
+
+And that's it, bros. See you next time. Got plenty of articles you can read. Go check them out.
 
 Photo by [Shamim Nakhaei](https://unsplash.com/@shamimnakhaei?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/man-suit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
