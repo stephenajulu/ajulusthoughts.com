@@ -12,7 +12,7 @@ tags:
 title: 'How To Level Up: Self Improvement For Men'
 excerpt: Here's exactly what you need to do to level up as a man physically, emotionally,
   spiritually, and financially
-date: 2021-08-06T11:44:00+03:00
+date: 2021-08-06T11:44:00.000+03:00
 hero: "/images/shamim-nakhaei-uzqqjq7w7c0-unsplash.jpg"
 
 ---
@@ -104,7 +104,7 @@ Meat is absolutely important. Go for "natural" meat or otherwise know as grass-f
 
 Water is a no-brainer. Drink lots but modulate, there's such a thing as water toxicity/intoxication and hyponatremia(low electrolytes due to "flashing" caused by a water and electrolyte imbalance. If you experience nausea, vomiting, cramps, and fatigue after drinking a lot of water lick some salt.)
 
-Eat less frequently. Science has found correlations between long life spans and frequency of eating. I suggest eating once a day, one and a half times a day or employing Intermittent Fasting. On Wednesdays eat supper early at 6 pm then skip meals till Friday at 7 pm, this is called Autophagy. Research!
+Eat less frequently. Science has found correlations between long life spans and low frequency of eating. I suggest eating once a day, one and a half times a day or employing Intermittent Fasting. On Wednesdays eat supper early at 6 pm then skip meals till Friday at 7 pm, this is called Autophagy. Research!
 
 ### 8. Write
 
@@ -122,7 +122,7 @@ I have never been good at making friends, I first had social anxiety before beco
 
 ### 11. Trust your instinct/gut
 
-Look many times your gut will tell you that your girl is cheating or something along those lines, many times we let our emotions rule us and dismiss this feeling. Look you are a man, if your gut tells you she's cheating, confront her, go through her phone, remember in exchange for your love, attention, provision, penetration, and leadership she gives you her freedom and love(don't be controlling), go through her phone, questions her, most of the time, it's you brain that notices small ques like her putting a little more work towards her outfit and makeup just to meet the "girls" or she's restricting sex. These are red flags. Your brain picks them up subconsciously then your gut brings them to the conscious mind. Don't let emotions or even logic rule over you. If your gut brings something up, investigate get to the root cause until it stops or you find out something is wrong. This applies to friends. Your gut isn't always right but it's almost always right.
+Look, many times your gut will tell you that your girl is cheating or something along those lines, many times we let our emotions rule us and dismiss this feeling. Look you are a man, if your gut tells you she's cheating, confront her, go through her phone, remember in exchange for your love, attention, provision, penetration, and leadership she gives you her freedom and love(don't be controlling), go through her phone, questions her, most of the time, it's you brain that notices small cues like her putting a little more work towards her outfit and makeup just to meet the "girls" or she's restricting sex. These are red flags. Your brain picks them up subconsciously then your gut brings them to the conscious mind. Don't let emotions or even logic rule over you. If your gut brings something up, investigate get to the root cause until it stops or you find out something is wrong. This applies to friends. Your gut isn't always right but it's almost always right.
 
 ### 12. Dress and groom yourself
 
