@@ -13,7 +13,7 @@ title: 'How To Level Up: Self Improvement For Men'
 excerpt: Here's exactly what you need to do to level up as a man physically, emotionally,
   spiritually, and financially
 date: 2021-08-06T11:44:00+03:00
-hero: "/static/images/shamim-nakhaei-uzqqjq7w7c0-unsplash.jpg"
+hero: "/images/shamim-nakhaei-uzqqjq7w7c0-unsplash.jpg"
 
 ---
 Hi guys, here's exactly what you need to do to level up as a man physically, emotionally, spiritually, and financially. If I've missed something add it to the comments and I'll add it to the post.
