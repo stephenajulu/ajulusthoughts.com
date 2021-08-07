@@ -45,7 +45,7 @@ Say no to requests that aren't important.
 
 #### Benediction
 
-Pray, Meditate, or whatever utterance of blessings you do.
+Pray, Meditate, or whatever utterance of blessings you do. Also, write and read your I AM statements.
 
 #### Cultivate gratitude
 
