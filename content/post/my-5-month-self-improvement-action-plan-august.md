@@ -11,7 +11,7 @@ tags:
 - growth
 title: 'My 5 Month Self Improvement Action Plan: August'
 excerpt: Here's my 5 month self improvement action plan. Feel free to join me.
-date: 2021-08-07T15:35:00+03:00
+date: 2021-08-07T15:35:00.000+03:00
 hero: "/images/troy-spoelma-03mi51amhoe-unsplash.jpg"
 
 ---
@@ -29,7 +29,7 @@ Sleep earlier than usual. If possible 8 or 9.
 
 Wake up early at 4, 5, or 6 am.
 
-#### Exercise 
+#### Exercise
 
 Pushups, Leg raises, squats, and a run. Do it incrementally e.g 10 squats on August 1st, 20 on 2nd, and so on.
 
@@ -84,6 +84,8 @@ Here's my recommendation: **Low/NO Sugar, No Soy, Moderate Sodium, High Fat, Low
 #### Dress & Groom
 
 Dress and groom yourself well even if you'll be at home the whole day.
+
+Try out my sponsor ESNTLS, I have a 10% Off deal with them go pick up a few stuff there and integrate it into your wardrobe. Here’s a link with the 10% discount already applied: [ESNTLS](https://www.esntls.co/?ref=kuzqn53jomp-), pick up some shades/glasses too: [JadeBlack](https://www.jadeblack.co/?ref=kuzqn53jomp-) same 10% off deal. Would you like to smell good too? Try [Santa Lucia Fragrance](https://santaluciafragrance.com/?ref=kuzqn53jomp-), same 10% off.
 
 #### Cold Shower
 
