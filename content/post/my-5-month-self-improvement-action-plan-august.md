@@ -45,7 +45,7 @@ Say no to requests that aren't important.
 
 #### Benediction
 
-Pray, Meditate, or whatever utterance of blessings you do. Also, write and read your I AM statements.
+Pray, Meditate, or whatever utterance of blessings you do. Also, write and read your I AM statements. Record it and listen to it while in bed. Put a timer so that it stops an hour after you play it. Sleep listening to it. This is called AutoSuggestion.
 
 #### Cultivate gratitude
 
