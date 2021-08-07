@@ -37,7 +37,7 @@ For running: Find a "track" or path where you can run to and from. Let it be at 
 
 #### Write
 
-Write at least one post a day or write on Twitter a motivating message you believe in.
+Write at least one post a day or write on Twitter a motivating message you believe in. Got a 30% deal for you. I can build you a blog in less than 2 days. Contact me: [alunje73@gmail.com](mailto:alunje73@gmail.com). 
 
 #### Practice assertiveness
 
