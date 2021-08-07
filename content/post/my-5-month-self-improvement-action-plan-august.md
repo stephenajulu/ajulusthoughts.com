@@ -12,7 +12,7 @@ tags:
 title: 'My 5 Month Self Improvement Action Plan: August'
 excerpt: Here's my 5 month self improvement action plan. Feel free to join me.
 date: 2021-08-07T15:35:00+03:00
-hero: "/static/images/troy-spoelma-03mi51amhoe-unsplash.jpg"
+hero: "/images/troy-spoelma-03mi51amhoe-unsplash.jpg"
 
 ---
 Hi guys? Today I'd like to share with you my 5-month action plan for leveling up starting up with August. I'd like it if you can join me and tweet your growth. Also, mention me @stephenajulu. Let's get stronger, faster, and better together.
