@@ -79,7 +79,7 @@ Visualize you in the position you want to be, visualize you becoming the best ve
 
 Eat healthily.
 
-Here's my recommendation: **Low/NO Sugar, No Soy, Moderate Sodium, High Fat, Low Carbs, More Veggies, More Meat, More Water, More Fiber, More Nuts, and Less Frequently**
+Here's my recommendation: **Low/NO Sugar, No Soy, Moderate Sodium, High Fat, Low Carbs, More Veggies, More Meat, More Water, More Fiber, More Nuts,  Less/No Snacks and Less Frequently**
 
 #### Dress & Groom
 
