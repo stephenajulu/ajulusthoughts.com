@@ -1,4 +1,4 @@
-{{ if .IsHome }}<br><div class="followmeinstagrambanner section narrow" style="align:center; justify-content:center; text-align:center;" align="center"><a title="Hey! I'm On IG As stephenajulu. The Background Image Belongs To Hampus Olsson" class="umami--click--instagram-button" href="https://www.instagram.com/stephenajulu"><img src="images/instagram_btn.jpg"></a></div><br>{{ else }}<div align="center"><h5>KINDLY SPARE A MOMENT AND <a class="umami--click--support-button" href="https://ajulusthoughts2-1.netlify.app/contribute/">SUPPORT THIS BLOG</a></h5><br></div>{{ end }}
+{{ if .IsHome }}<br><div class="followmeinstagrambanner section narrow" style="align:center; justify-content:center; text-align:center;" align="center"><a title="Hey! I'm On IG As stephenajulu. The Background Image Belongs To Hampus Olsson" class="umami--click--instagram-button" href="https://www.instagram.com/stephenajulu"><img src="images/instagram_btn.jpg"></a></div><br>{{ else }}{{ partial "others/supportSection.html" . }}{{ end }}
 
 <!--{{ partial "newsletter/newsletter2convertkit.html" . }}-->
 
