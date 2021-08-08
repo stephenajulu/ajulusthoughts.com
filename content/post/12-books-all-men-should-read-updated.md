@@ -3,22 +3,30 @@ authors:
 - Stephen Ajulu
 categories:
 - men
-- manhood
 - self improvement
+- books
 tags:
 - men
-- manhood
 - self improvement
-title: 12 Books All Men Should Read Updated
-excerpt: Here are the 12 books I recommend to all men that will change your life and
-  help you level up
-date: 2021-08-06T11:48:00+03:00
+- books
+title: 13 Books All Men Should Read(Updated)
+excerpt: Here are the 13 books I recommend to all men that will change their lives
+  and help them level up
+date: 2021-08-08T15:23:00+03:00
 hero: "/images/daria-nepriakhina-xy55bl5mzam-unsplash.jpg"
 
 ---
-Here are the 12 books I recommend to all men that will change your life and help you level up. 
+Here are the 13 books I recommend to all men that will change your life and help you level up.
 
 This is a quick list. International links are affiliate links from Amazon and the local links are from Jumia. I get a commission from both.
+
+### 0. The Bible _(A MUST READ)_
+
+Buy:
+
+[International(Amazon)](https://www.amazon.com/gp/product/0785215891/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785215891&linkCode=as2&tag=stephenajulu-20&linkId=4a6c9248520c62053a1357da46b2d3fa)
+
+[Local(Kenya)](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Fgeneric-kjv-ultrathin-reference-bible-29411897.html)
 
 ### 1. The Daily Stoic
 
@@ -100,9 +108,8 @@ Buy:
 
 ### 12. Models by Mark Manson
 
-Buy: 
+Buy:
 
 [International](https://www.amazon.com/gp/product/1463750358/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1463750358&linkCode=as2&tag=stephenajulu-20&linkId=24f5a72b07f1f24edd6ae907bc5d0781)
 
 ### Bonus 13. The 4 Books of Robert Greene(The Art of Seduction, Mastery, The 50th Law, The Laws of Human Nature)
-
