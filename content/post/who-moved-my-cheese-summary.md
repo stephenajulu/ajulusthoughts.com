@@ -12,7 +12,7 @@ tags:
 title: Who Moved My Cheese Summary
 excerpt: Here's the summary of who moved my cheese by spencer johnson spencer
 date: 2021-08-09T16:27:00+03:00
-hero: "/static/images/whomovedmycheese.jpg"
+hero: "/images/whomovedmycheese.jpg"
 
 ---
 **A group of old school friends is gathered for dinner and the topic of conversation gets on to change** – in career, relationships, and family life. One of those present contends that change no longer bothers him after having heard ‘a funny little story’ called _Who Moved My Cheese?_ In this artful way, Spencer Johnson introduces the reader to his fable on how to cope positively with change.
