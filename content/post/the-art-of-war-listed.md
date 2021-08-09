@@ -12,7 +12,7 @@ tags:
 title: The Art of War(Listed)
 excerpt: 'Here''s the art of war by sun tzu listed. '
 date: 2021-08-09T16:19:00+03:00
-hero: "/static/images/theartofwar.jpg"
+hero: "/images/theartofwar.jpg"
 
 ---
 * “According as circumstances are favorable, one should modify one’s plans.”
