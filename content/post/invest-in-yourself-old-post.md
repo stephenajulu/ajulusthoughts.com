@@ -12,7 +12,7 @@ tags:
 title: Invest In Yourself(Old Post)
 excerpt: Here's why and how you should invest in yourself.
 date: 2021-08-09T05:17:00+03:00
-hero: "/static/images/bronzeman.jpeg"
+hero: "/images/bronzeman.jpeg"
 
 ---
 Hey guys, what’s up? It’s your guy, Stephen Ajulu. And today’s topic is Investing in yourself, now I am in no way a certified advise-man, but this is something many self-made recognize and encourage. This is what Warren Buffet said,
