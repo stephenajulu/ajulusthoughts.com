@@ -12,7 +12,7 @@ tags:
 title: The 48 Laws of Power(Listed)
 excerpt: 'Here are the 48 laws of power listed from 1 to 48. '
 date: 2021-08-09T16:07:00+03:00
-hero: "/static/images/48lawsof-power.jpg"
+hero: "/images/48lawsof-power.jpg"
 
 ---
 ### Law 1: Never outshine the master
