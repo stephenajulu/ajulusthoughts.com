@@ -4,18 +4,23 @@ authors:
 categories:
 - self improvement
 - suffering
-- pain
+- manhood
 tags:
 - self improvement
 - suffering
-- pain
+- manhood
 title: 'Why Men Must Level Up: You Have No Choice'
-excerpt: Here's why men have no other choice but to level up and why I am leveling
+excerpt: Here's why men have no other choice but to level up and improve
   up as well
-date: 2021-08-10T10:37:00+03:00
-hero: "/static/images/tom-pumford-t5lmpsyxnsu-unsplash.jpg"
+date: 2021-08-10T11:37:00+03:00
+hero: "/images/tom-pumford-t5lmpsyxnsu-unsplash.jpg"
 
 ---
+
+<br>
+
+> Back in the days of our grand fathers and great grandfathers, boys used to be initiated through pain and suffering in order to become men. There was circumcision(no anesthesia used), front teeth pulling(no anesthesia), hunting, killing lions and other wild animals, isolation, beatings, blood letting and more.
+
 Hi guys. Look, I understand you are depressed, I understand you have no money, I understand you have no motivation but guys, you have no other choice, you absolutely have no other choice. 
 
 A woman can stay in her parent's house until she's 40 or 50 or even beyond. Yes, there's the pressure of marriage but that eventually fades. But men even just staying in your parent's house after 25 is taboo. Men have it 100 times harder in life.
@@ -28,7 +33,7 @@ I love the fact that more and more men are rising to help other men.
 
 Let's all accept this fact in order to move forward.
 
-> Men have it rough. Life is always looking for a way to kick men down. Society doesn't care.
+Men have it rough. Life is always looking for a way to kick men down. Society doesn't care.
 
 My guys, if you want to go forward remember that everyone is out to get you. Women are out to get you(except a small minority who after a while will get sick and tired of you if you have no money, lack physical appeal, and can't protect).
 
