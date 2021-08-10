@@ -1,6 +1,7 @@
 ---
 hero:
-  heading: Tech, Lifestyle, Finance, Design, Dev Among Other Thoughts with Ajulu.
+  heading: Sharing Tech, Lifestyle, Self Improvement, Design Thoughts and Ideas Among
+    Other Things With Stephen Ajulu..
   maxWidthPX: "652"
 seo:
   image: "/images/seoimage.png"
