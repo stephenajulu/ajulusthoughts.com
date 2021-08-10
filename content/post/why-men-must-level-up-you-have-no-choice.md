@@ -14,6 +14,7 @@ excerpt: Here's why men have no other choice but to level up and improve
   up as well
 date: 2021-08-10T11:37:00+03:00
 hero: "/images/tom-pumford-t5lmpsyxnsu-unsplash.jpg"
+draft: true
 
 ---
 
