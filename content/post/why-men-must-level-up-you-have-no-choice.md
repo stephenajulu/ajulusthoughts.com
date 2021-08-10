@@ -21,7 +21,7 @@ hero: "/images/tom-pumford-t5lmpsyxnsu-unsplash.jpg"
 
 > Back in the days of our grand fathers and great grandfathers, boys used to be initiated through pain and suffering in order to become men. There was circumcision(no anesthesia), front teeth pulling(no anesthesia), hunting, killing lions and other wild animals, isolation in forests, beatings, blood letting, "natural" tatooing(like the Sudanese people), fighting, bullet ant glove wearing and more.
 
-I believe initiation needs to be brought back.
+I believe some form of initiation needs to be brought back for turning boys to men.
 
 Hi guys. Look, I understand you are depressed, I understand you have no money, I understand you have no motivation but guys, you have no other choice, you absolutely have no other choice. 
 
