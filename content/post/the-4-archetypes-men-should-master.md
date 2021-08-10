@@ -13,7 +13,7 @@ title: The 4 Archetypes Men Should Master
 excerpt: Here are the 4 archetypes all men should master for true growth and self
   improvement.
 date: 2021-08-10T16:13:00+03:00
-hero: "/static/images/logan-weaver-zvg7z7zfi1u-unsplash.jpg"
+hero: "/images/logan-weaver-zvg7z7zfi1u-unsplash.jpg"
 
 ---
 # #1. King
