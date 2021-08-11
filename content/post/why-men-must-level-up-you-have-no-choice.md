@@ -10,14 +10,11 @@ tags:
 - suffering
 - manhood
 title: 'Why Men Must Level Up: You Have No Choice'
-excerpt: Here's why men have no other choice but to level up and improve
-  up as well
-date: 2021-08-10T11:37:00+03:00
+excerpt: Here's why men have no other choice but to level up and improve up as well
+date: 2021-08-10T11:37:00.000+03:00
 hero: "/images/tom-pumford-t5lmpsyxnsu-unsplash.jpg"
-draft: true
 
 ---
-
 <br>
 
 > Back in the days of our grand fathers and great grandfathers, boys used to be initiated through pain and suffering in order to become men. There was circumcision(no anesthesia), front teeth pulling(no anesthesia), hunting, killing lions and other wild animals, isolation in forests, beatings, blood letting, "natural" tatooing(like the Sudanese people), fighting, bullet ant glove wearing and more.
