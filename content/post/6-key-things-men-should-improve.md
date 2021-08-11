@@ -12,7 +12,7 @@ tags:
 title: 6 Key Things Men Should Improve
 excerpt: Here are The 6 Key Things Men Should Improve Upon
 date: 2021-08-11T16:00:00+03:00
-hero: "/static/images/luigi-estuye-lucreative-uih-y7kmaee-unsplash.jpg"
+hero: "/images/luigi-estuye-lucreative-uih-y7kmaee-unsplash.jpg"
 
 ---
 ### Status
