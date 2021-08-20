@@ -8,7 +8,7 @@ tags:
 title: Mini Self Improvement Framework For Everyone
 excerpt: Here are ways you can improve yourself and the people around you.
 date: 2021-08-20T17:25:00+03:00
-hero: "/static/images/danielle-macinnes-iulgi9pwetu-unsplash.jpg"
+hero: "/images/danielle-macinnes-iulgi9pwetu-unsplash.jpg"
 
 ---
 Hi! How are you? 
