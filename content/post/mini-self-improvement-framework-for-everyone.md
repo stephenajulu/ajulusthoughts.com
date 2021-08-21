@@ -11,11 +11,11 @@ date: 2021-08-20T17:25:00.000+03:00
 hero: "/images/danielle-macinnes-iulgi9pwetu-unsplash.jpg"
 
 ---
-liHi! How are you?
+Hi! How are you?
 
 I like a quote Hafeez from The Roommates always says. Though i modified it so now it's my quote. It says,
 
-> Improve yourself physically, spiritually, emotionally, mentally and financially.
+> Improve yourself physically, spiritually, emotionally, mentally and financially, then go and change the world!
 
 I won't waste your time and I'll get right into it.
 
@@ -66,10 +66,11 @@ I won't waste your time and I'll get right into it.
 
 ### Financially
 
-1. Invest in something, stocks, etfs, mutual funds, index funds, nfts, crypto and others.
+1. Invest in something, stocks, ETFs, mutual funds, index funds, NFTs, crypto, startups, real estate, REITs, and others. Remember Diversify then triple initial investment, don't pick one then triple it.
 2. Learn a skill
 3. Build a side hustle
-4. Create something, a blog, newsletter, course, product.
+4. Create something, a blog, newsletter, course, product, art, nfts.
 5. Build a business
 6. Budget
 7. Learn financial literacy
+8. Up your income either through asking for a raise or asking for a promotion
