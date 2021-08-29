@@ -67,13 +67,15 @@
 <button style="font-size:30px;cursor:pointer" onclick="openNav()" class="icon-wrapper">{{ partial "icons/ui/menu-icon.html"}}</button>
 
 <script>
-/* Open the sidenav */
+/* Set the width of the side navigation to 250px */
 function openNav() {
-  document.getElementById("mySidenav").style.width = "100%";
+  document.getElementById("mySidenav").style.width = "250px";
+  document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
 }
 
-/* Close/hide the sidenav */
+/* Set the width of the side navigation to 0 */
 function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
+  document.body.style.backgroundColor = "white";
 }
 </script>
