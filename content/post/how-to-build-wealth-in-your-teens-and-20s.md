@@ -76,4 +76,6 @@ That's the end of this post.
 
 To all who take the initiative to put the above into action, "**Greatness is coming!**".
 
+More ways will be explained in my ebook: "How to Invest and Build Wealth". I still don't have a date but you my newsletter subscribers will be among the first to be notified together with a 50% coupon code. So subscribe to my newsletter down below.
+
 See you soon.
