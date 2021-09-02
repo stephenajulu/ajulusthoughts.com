@@ -11,7 +11,7 @@ title: Gradient Wallpaper Pack 3 is Out
 excerpt: Gradient Wallpaper Pack 3 is Out. It contains 35 8K resolution wallpapers.
   Get yours now.
 date: 2021-09-02T19:02:00+03:00
-hero: "/static/images/gradient-wallpapers-3-0-8k-cover.png"
+hero: "/images/gradient-wallpapers-3-0-8k-cover.png"
 
 ---
 35 Gradient Wallpapers at 8K resolution that look amazing on a TV, Laptop, Desktop, or Mobile Phone have been released. Buy it from my [store](https://ajulusthoughts.stephenajulu.com/store) or below.
