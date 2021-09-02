@@ -66,11 +66,27 @@ See a previous post on how you can become healthy.
 
 **Also Remember: More Sun, More Fermented Foods, More Movement/Exercise.**
 
-{{< articlepreview "/post/mini-self-improvement-framework-for-everyone/" >}}
+{{< articlepreview "/post/mini-self-improvement-framework-for-everyone" >}}
 
 ### 8. Learn & build your skills
 
-Building skills makes you high value, which means you become twice as likely to be hired every time you learn a new skill or master an old one. The same is true for business, the more skills you learn the more likely you are to attract potential clients. I'll soon write an article on some high-value skills.
+Building skills makes you high value, which means you become twice as likely to be hired every time you learn a new skill or master an old one. The same is true for business, the more skills you learn the more likely you are to attract potential clients.
+
+{{< articlepreview "/post/high-value-in-demand-skills.md" >}}
+
+I'd suggest signing up for Skillshare, use this link to get 1 free premium month worth of content: [https://skl.sh/3wxbE9O](https://skl.sh/3wxbE9O "https://skl.sh/3wxbE9O")
+
+I'm currently learning
+
+* Financial Literacy
+* Web Design with Figma and Webflow
+* Copywriting
+* Facebook ADS
+* Graphic Design
+* Python
+* Ruby on Rails
+* Golang
+* Web Development
 
 That's the end of this post.
 
