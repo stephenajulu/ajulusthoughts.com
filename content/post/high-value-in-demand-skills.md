@@ -8,7 +8,7 @@ tags:
 title: High Value In Demand Skills
 excerpt: Here are a few high value high income in demand skills
 date: 2021-09-02T12:28:00+03:00
-hero: "/static/images/priscilla-du-preez-xkkcui44im0-unsplash.jpg"
+hero: "/images/priscilla-du-preez-xkkcui44im0-unsplash.jpg"
 
 ---
 Here are a few high-value high-income skills:
