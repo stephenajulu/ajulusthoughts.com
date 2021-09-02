@@ -8,7 +8,7 @@ tags:
 title: Simple Way To Be Healthy
 excerpt: How to be healthy
 date: 2021-09-02T12:49:00+03:00
-hero: "/static/images/jenny-hill-io2zgb3_kdk-unsplash.jpg"
+hero: "/images/jenny-hill-io2zgb3_kdk-unsplash.jpg"
 
 ---
  1. Increase fat intake - Skip seed oils for cooking and frying instead adopt Organic Avocado Oil,  Organic Olive Oil, Organic Coconut oil, Grass-fed butter, Grass-fed ghee, Grass-fed tallow, Grass-fed suet, and others like them. Avoid Canola, Sunflower, Peanut, Corn, Safflower, soybean, cottonseed, rapeseed, grapeseed, and other similar oils. Increase saturated fats. Fats are the building blocks of the most important hormones. 
