@@ -66,7 +66,7 @@ See a previous post on how you can become healthy.
 
 **Also Remember: More Sun, More Fermented Foods, More Movement/Exercise.**
 
-{{< articlepreview "post/mini-self-improvement-framework-for-everyone/" >}}
+{{< articlepreview "/post/mini-self-improvement-framework-for-everyone/" >}}
 
 ### 8. Learn & build your skills
 
