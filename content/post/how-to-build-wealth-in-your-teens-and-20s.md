@@ -12,7 +12,7 @@ tags:
 title: How To Build Wealth in Your Teens and 20s
 excerpt: Here are the best ways you can build wealth in your teens and 20s without
   breaking the bank or ruining your credit score.
-date: 2021-09-02T11:17:00+03:00
+date: 2021-09-02T11:17:00.000+03:00
 hero: "/images/morgan-housel-pcdggex9-ja-unsplash.jpg"
 
 ---
@@ -20,17 +20,17 @@ Here's how you can build wealth in your teens and 20s.
 
 ### 1. Live below your means
 
-Never before has there been such a rise in self-comparison especially with the invention of Instagram. But forget that for a second. Remember 50% of those people you see flaunting money and living in luxury are in debt and are using loans to keep the facade. 
+Never before has there been such a rise in self-comparison especially with the invention of Instagram. But forget that for a second. Remember 50% of those people you see flaunting money and living in luxury are in debt and are using loans to keep the facade.
 
-Embrace minimalism and essentialism. Live below your means. Don't focus on how people view you, focus on yourself. I can assure you 90% out of the 50% are living miserably and in dept. They are depressed and sometimes commit suicide.
+Embrace minimalism and essentialism. Live below your means. Don't focus on how people view you, focus on yourself. I can assure you 70% out of the 50% are living miserably and in debt. They are depressed and sometimes desire to commit suicide.
 
 Live below your means. Here's how you know you are living below your means.
 
-You retain close to 30% of the money you get per month after all the deductions including water, rent, food, and other bills. 
+You retain close to 30% of your monthly income after all the deductions including water, rent, food, and other bills.
 
 ### 2. Create an emergency fund
 
-An emergency fund usually entails saving up money capable of taking you 3 to 12 months with zero income. 
+An emergency fund usually entails saving up money capable of taking you 3 to 12 months with zero income.
 
 You create an emergency fund by adding up all the bills you need to foot including rent, food, waste, and transport, then adding the occasional self-treatment/payment/enjoyment/leisure, then adding up medical costs/insurance, and finally adding up 20% of the aforementioned additions times 3 or 6 or 12.
 
@@ -44,7 +44,7 @@ Not all debt is created equal, there's good debt and bad debt. Find the differen
 
 ### 4. Invest
 
-Invest immediately you get your income. I'd suggest you invest in index funds if you live in the US and other first-world countries. 
+Invest immediately you get your income. I'd suggest you invest in index funds if you live in the US and other first-world countries.
 
 Generally, I suggest you invest in stocks, cryptocurrencies, mutual funds, unit trusts, ETFs, NFTs, and others. Rule of thumb: Invest 30% of your income, if you can invest more. Working on an ebook that will teach you more ways to invest and even simplify investing.
 
@@ -62,7 +62,7 @@ By staying healthy you keep yourself from getting sick and having to use the mon
 
 See a previous post on how you can become healthy.
 
-**Remember: Low/NO Sugar, No Soy, Moderate Sodium, High Fat, Low Carbs, More Veggies, More Meat, More Water, More Fiber, Fewer Fruits, More Eggs and Less Frequently(**One Meal A Day, One And A Half Meals A Day, Intermittent Fasting, Autophagy**)**
+**Remember: Low/NO Sugar, No Soy, Moderate Sodium, High Fat, Low Carbs, More Veggies, More Meat, More Water, More Fiber, Fewer Fruits, More Eggs and Less Frequently(One Meal A Day, One And A Half Meals A Day, Intermittent Fasting, Autophagy**)
 
 **Also Remember: More Sun, More Fermented Foods, More Movement/Exercise.**
 
@@ -76,6 +76,8 @@ That's the end of this post.
 
 To all who take the initiative to put the above into action, "**Greatness is coming!**".
 
-More ways will be explained in my ebook: "How to Invest and Build Wealth". I still don't have a date but you my newsletter subscribers will be among the first to be notified together with a 50% coupon code. So subscribe to my newsletter down below.
+More ways will be explained in my ebook: "How to Invest and Build Wealth". I still don't have a date but my newsletter subscribers will be among the first to be notified together with a 50% coupon code. 
+
+Subscribe to my newsletter down below.
 
 See you soon.
