@@ -12,7 +12,7 @@ tags:
 title: 5 Free Tools For Creating Ebooks
 excerpt: Here are 5 free tools for creating e-books + a bonus
 date: 2021-09-04T19:20:00+03:00
-hero: "/static/images/bady-abbas-algjkcowdva-unsplash.jpg"
+hero: "/images/bady-abbas-algjkcowdva-unsplash.jpg"
 
 ---
 Here are 5 free tools for creating ebooks:
