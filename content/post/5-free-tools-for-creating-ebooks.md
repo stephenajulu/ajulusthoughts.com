@@ -25,4 +25,10 @@ Here are 5 free tools for creating ebooks:
 * [**Instagram**](https://instagram.com/stephenajulu)**/**[**Twitter**](https://twitter.com/stephenajulu)**/**[**Facebook**](https://facebook.com/stephenajulu): to market it
 * [**PayPal**](https://paypal.com)/[**Stripe**](https://stripe.com): to receive payment for it
 
+It's that simple but of course, you'll need a topic, 15 pages minimum but you can go lower. You can export it as a PDF then drop it on Gumroad. 
+
+Not sure of the process/requirements but you could also sell it on Amazon.
+
+Once you create your ebook, feel free to leave a link in the bio and I'll make sure to post it here. But it must be related to the topics(Tech, Lifestyle, Self Improvement, Personal Finance) posted on this blog.
+
 Photo by [bady abbas](https://unsplash.com/@bady?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/ebooks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
