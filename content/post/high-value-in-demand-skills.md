@@ -5,15 +5,15 @@ categories:
 - skills
 tags:
 - skill
-title: High Value In Demand Skills
+title: High Value In-Demand Skills
 excerpt: Here are a few high value high income in demand skills
-date: 2021-09-02T12:28:00+03:00
+date: 2021-09-02T12:28:00.000+03:00
 hero: "/images/priscilla-du-preez-xkkcui44im0-unsplash.jpg"
 
 ---
 Let me start by saying this, "Every skill you acquire doubles your chances of success"
 
-Here are a few high-value high-income skills:
+Here are a few high-value high-income in-demand skills:
 
  1. Public speaking
  2. Copywriting
