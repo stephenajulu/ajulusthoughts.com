@@ -6,7 +6,8 @@ categories:
 tags:
 - skill
 title: High Value In-Demand Skills
-excerpt: Here are a few high value high income in demand skills
+excerpt: 'Here are a few high-value high-income in-demand skills. Remember: Every
+  skill you acquire doubles your chances of success.'
 date: 2021-09-02T12:28:00.000+03:00
 hero: "/images/priscilla-du-preez-xkkcui44im0-unsplash.jpg"
 
