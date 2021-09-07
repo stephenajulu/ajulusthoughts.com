@@ -30,6 +30,7 @@ params:
   creator: "Stephen Ajulu"
   copyright: "Stephen Ajulu"
   toc: true
+  monetization: "$ilp.uphold.com/GLrwmQrfDeU9"
   adsense:
     client: "ca-pub-2099668045881016"
     inArticleSlot: "5485551778"
