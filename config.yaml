@@ -24,7 +24,7 @@ params:
   default_image: "images/about.png"
   logo: "logo.png"
   GithubEdit: "https://github.com/stephenajulu/ajulusthoughts2/edit/master/content/"
-  formaction: "https://app.convertkit.com/forms/2023413/subscriptions"
+  formaction: "https://app.convertkit.com/forms/2623714/subscriptions"
   twitter: "@stephenajulu"
   author: "Stephen Ajulu"
   creator: "Stephen Ajulu"
