@@ -68,7 +68,7 @@ function makeDark(){
     bodyElement.style.setProperty('--secondary', "#fff");
     bodyElement.style.setProperty('--grey', "#73737D");
     bodyElement.style.setProperty('--background-color', "#111216");
-    bodyElement.style.setProperty('--accent', "#6166DC");
+    bodyElement.style.setProperty('--accent', "#6320D6");
     bodyElement.style.setProperty('--hover', "rgba(255, 255, 255, 0.07)");
     bodyElement.style.setProperty('--gradient', "linear-gradient(180deg, #111216 0%, rgba(66, 81, 98, 0.36) 100%)");
     bodyElement.style.setProperty('--articleText', "#fff");
